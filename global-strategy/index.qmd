@@ -4,7 +4,7 @@ title: "Global Strategy"
 
 # Global Strategy
 
-Selected work analyzing competitive advantage, financial performance, strategic positioning, and the tradeoffs companies face as they grow and adapt.
+Selected work analyzing competitive advantage, financial performance, strategic positioning, leadership, and the tradeoffs organizations face as they grow and adapt.
 
 ## Featured Work
 
@@ -19,6 +19,12 @@ A strategic analysis of how Costco's membership model, customer selection, and c
 A global strategy analysis of how IKEA adapted its standardized model to Chinese consumer expectations, competitive pressures, and changing market conditions.
 
 [Read the publication →](ikea-in-china/index.qmd)
+
+### Ron Ventura at Mitchell Memorial Hospital: Clinical Excellence, Leadership Accountability, and Contract Renewal
+
+A strategy and leadership analysis of how a hospital should balance exceptional clinical performance, organizational culture, physician development, financial value, and accountability when deciding whether to renew a high-performing physician leader.
+
+[Read the publication →](ron-ventura/index.qmd)
 
 ### Starbucks vs. The Boston Beer Company: A Financial and Strategic Analysis
 
