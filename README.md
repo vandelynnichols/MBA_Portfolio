@@ -35,7 +35,19 @@ MBA_Portfolio/
 │       ├── index.qmd
 │       └── references.bib
 ├── global-strategy/
-│   └── index.qmd
+│   ├── index.qmd
+│   ├── costco/
+│   │   ├── index.qmd
+│   │   └── references.bib
+│   ├── ikea-in-china/
+│   │   ├── index.qmd
+│   │   └── references.bib
+│   ├── starbucks-vs-boston-beer/
+│   │   ├── index.qmd
+│   │   └── references.bib
+│   └── shopify-strategic-pivot/
+│       ├── index.qmd
+│       └── references.bib
 └── healthcare/
     └── index.qmd
 ```
@@ -59,6 +71,13 @@ Each published piece should:
 - **Effective Leadership Still Comes Back to People** — leadership traits, generational differences, individualized development, clarity, and accountability.
 - **The Leadership Gap: What Organizations Say vs. What They Reward** — analysis of Pfeffer's leadership critique using NVIDIA and Eli Lilly as recent business examples.
 - **Reimagining Leadership: Leaders Are Not Finished Products** — ongoing leader development, feedback, selection, coaching, and accountability.
+
+### Global Strategy
+
+- **Costco: Value Proposition, Target Customers, and Cost Leadership in Practice** — how Costco's membership model, customer selection, and cost leadership reinforce one another.
+- **IKEA in China: Adapting a Global Model** — global standardization, local responsiveness, competitive pressures, CAGE analysis, and market adaptation.
+- **Starbucks vs. The Boston Beer Company: A Financial and Strategic Analysis** — comparative financial performance, competitive position, leadership execution, and strategic outlook for FY2023–FY2025.
+- **Shopify’s Strategic Pivot: Preserving Today’s Advantage While Building Tomorrow’s** — Shopify's asset-light model, AI-driven commerce opportunity, merchant trust, and financial-services risk.
 
 ## Connect Cloud
 
