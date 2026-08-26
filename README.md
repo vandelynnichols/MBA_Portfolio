@@ -25,6 +25,12 @@ MBA_Portfolio/
 ├── README.md
 ├── leadership/
 │   ├── index.qmd
+│   ├── what-effective-leadership-looks-like/
+│   │   ├── index.qmd
+│   │   └── references.bib
+│   ├── the-leadership-gap/
+│   │   ├── index.qmd
+│   │   └── references.bib
 │   └── reimagining-leadership/
 │       ├── index.qmd
 │       └── references.bib
@@ -50,7 +56,9 @@ Each published piece should:
 
 ### Leadership
 
-- **Reimagining Leadership: Leaders Are Not Finished Products** — MBA leadership analysis examining ongoing leader development, feedback, selection, coaching, and accountability.
+- **Effective Leadership Still Comes Back to People** — leadership traits, generational differences, individualized development, clarity, and accountability.
+- **The Leadership Gap: What Organizations Say vs. What They Reward** — analysis of Pfeffer's leadership critique using NVIDIA and Eli Lilly as recent business examples.
+- **Reimagining Leadership: Leaders Are Not Finished Products** — ongoing leader development, feedback, selection, coaching, and accountability.
 
 ## Connect Cloud
 
