@@ -1,9 +1,8 @@
 ---
 title: "MBA Portfolio"
 subtitle: "Applied work in leadership, strategy, healthcare, finance, and analytics"
+toc: false
 ---
-
-# Vandelyn Nichols
 
 This portfolio highlights selected work from my MBA coursework, with an emphasis on practical analysis, leadership, strategy, healthcare, and data-informed decision-making.
 
