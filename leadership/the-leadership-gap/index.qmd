@@ -1,0 +1,37 @@
+---
+title: "The Leadership Gap: What Organizations Say vs. What They Reward"
+author: "Vandelyn Nichols"
+description: "An MBA leadership analysis of Jeffrey Pfeffer's critique of the leadership industry, using NVIDIA and Eli Lilly to examine the gap between ideal leadership traits and the behaviors organizations actually reward."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Discussion Topic 2
+
+### Prompt
+
+> According to Pfeffer is there much (if any) evidence that leaders actually display the desired behaviors and traits? Do you agree with Pfeffer? Why or why not? Justify your answer by providing recent business examples (a minimum of two within the last year) in addition to those discussed in the video with supporting references.
+
+## Response
+
+According to @pfeffer2015, there is limited evidence that leaders consistently display the humility, authenticity, honesty, trustworthiness, and concern for others commonly promoted by the leadership industry. He argues that leadership discussions often focus on how leaders *should* behave rather than on how successful leaders actually behave. Many successful leaders are self-promoting, highly competitive, willing to manipulate perceptions, and focused on protecting their own power and interests. Pfeffer’s larger criticism is that organizations often reward those behaviors even while promoting a very different picture of what good leadership should look like.
+
+I agree with Pfeffer about the gap between what organizations say they value in leaders and what actually gets rewarded. In practice, leaders who lack humility or empathy can still be seen as successful, especially if they hit their numbers or drive short-term results. It is easy for companies to talk about trust, employee development, and integrity, but those things are much harder to measure than revenue or profit. As long as a leader keeps delivering strong financial results, there is often little motivation to dig deeper into how those results are achieved or what impact the leader’s style has on the team.
+
+At the same time, the fact that good leadership practices are not consistently followed does not necessarily mean they are unrealistic or ineffective. @butler2017 raise a similar concern, arguing that Pfeffer identifies legitimate problems within the leadership industry but tends to favor evidence that supports his criticism of conventional leadership advice. He successfully demonstrates that organizations often fail to put known leadership practices into action, but that failure does not disprove the value of those practices.
+
+The larger issue may be how organizations define leadership success. Financial results are important, but if they come at the cost of burnout, high turnover, or lost trust, that success probably will not last. If organizations want leaders to balance results with employee well-being, they need to measure both. Metrics like retention, engagement, internal development, team performance, and employee feedback tell a story that financial reports alone cannot capture.
+
+NVIDIA CEO Jensen Huang is a good example of why Pfeffer’s argument has merit. Huang openly describes his leadership approach as “tough love” and has said that he frequently criticizes employees’ work because he believes immediate feedback helps people improve [@fore2026]. That is not the warm, supportive image often associated with ideal leadership. Still, NVIDIA reported fiscal 2026 revenue of $215.9 billion, an increase of 65%, while employee turnover was reportedly only 2.5% during fiscal 2025 [@fore2026; @nvidia2026]. Huang shows that a highly demanding and critical leader can still produce excellent results and retain employees.
+
+Eli Lilly CEO Dave Ricks provides a different example. Ricks describes leadership in terms of culture, integrity, accountability, curiosity, employee development, and respect for people. He argues that culture is shaped by how leaders behave when things go wrong and describes his approach as being “tough on problems, soft on people”—listening and being patient with employees while still maintaining high expectations and accountability [@bigman2025]. Lilly also develops leaders from within, uses 360-degree feedback, gives high-potential employees stretch assignments, and expects senior leaders to stay connected to the people doing the work. At the same time, Lilly reported 2025 revenue of $65.2 billion, an increase of 45% from the previous year [@lilly2026].
+
+These examples back up Pfeffer’s point that leaders do not need to check every box on the traditional leadership list to be successful. Huang shows that a tough, critical approach can still drive big results, while Ricks shows that integrity, people development, and accountability can go hand in hand with strong performance. A company can meet its financial goals without leaders displaying every trait associated with good leadership, but when strong leadership and culture are built into the organization, they can become a real competitive edge. When those practices are built into the organization, they may also strengthen its ability to retain talent, develop people, adapt, innovate, and sustain results over time. Pfeffer is right that good leadership traits are not required for financial success, but companies that develop them well may become even more competitive because of them.
+
+## References
+
+::: {#refs}
+:::
