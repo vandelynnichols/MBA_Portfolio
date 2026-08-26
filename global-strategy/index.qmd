@@ -6,4 +6,28 @@ title: "Global Strategy"
 
 Selected work analyzing competitive advantage, financial performance, strategic positioning, and the tradeoffs companies face as they grow and adapt.
 
-Public-facing versions of completed strategy projects will be added here as they are prepared for publication.
+## Featured Work
+
+### Costco: Value Proposition, Target Customers, and Cost Leadership in Practice
+
+A strategic analysis of how Costco's membership model, customer selection, and cost leadership strategy reinforce one another to create a durable competitive advantage.
+
+[Read the publication →](costco/index.qmd)
+
+### IKEA in China: Adapting a Global Model
+
+A global strategy analysis of how IKEA adapted its standardized model to Chinese consumer expectations, competitive pressures, and changing market conditions.
+
+[Read the publication →](ikea-in-china/index.qmd)
+
+### Starbucks vs. The Boston Beer Company: A Financial and Strategic Analysis
+
+A comparative analysis of Starbucks and The Boston Beer Company across financial performance, competitive position, leadership execution, and strategic outlook from FY2023 through FY2025.
+
+[Read the publication →](starbucks-vs-boston-beer/index.qmd)
+
+### Shopify’s Strategic Pivot: Preserving Today’s Advantage While Building Tomorrow’s
+
+A strategic analysis of Shopify’s return to an asset-light commerce platform, the rise of AI-driven shopping, and the challenge of balancing enterprise scale, small-business trust, and financial-services risk.
+
+[Read the publication →](shopify-strategic-pivot/index.qmd)
