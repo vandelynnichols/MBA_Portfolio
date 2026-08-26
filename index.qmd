@@ -1,0 +1,34 @@
+---
+title: "MBA Portfolio"
+subtitle: "Applied work in leadership, strategy, healthcare, finance, and analytics"
+---
+
+# Vandelyn Nichols
+
+This portfolio highlights selected work from my MBA coursework, with an emphasis on practical analysis, leadership, strategy, healthcare, and data-informed decision-making.
+
+The pieces included here began as academic assignments but are presented as professional work samples. Each publication focuses on the underlying business question, the analysis used to address it, and the practical implications of the work.
+
+## Featured Areas
+
+### Leadership
+
+Leadership work focused on how organizations develop people, evaluate leadership effectiveness, balance results with culture, and translate leadership principles into observable behavior.
+
+[Explore Leadership →](leadership/index.qmd)
+
+### Global Strategy
+
+Strategic analysis of companies, industries, competitive positioning, financial performance, and long-term business advantage.
+
+[Explore Global Strategy →](global-strategy/index.qmd)
+
+### Healthcare
+
+Healthcare-focused work examining delivery systems, reimbursement, clinical operations, informatics, and opportunities to improve outcomes and efficiency.
+
+[Explore Healthcare →](healthcare/index.qmd)
+
+## About This Portfolio
+
+This site is a curated collection rather than a complete archive of coursework. Working drafts, class notes, course administration, and other internal materials remain outside the public portfolio.
