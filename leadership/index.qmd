@@ -20,6 +20,12 @@ An analysis of Jeffrey Pfeffer's critique of the leadership industry using NVIDI
 
 [Read the publication →](the-leadership-gap/index.qmd)
 
+### When Breaking the Leadership Rules Works
+
+An analysis of when unconventional leadership behaviors can serve a legitimate purpose, why genuinely harmful leaders may still be rewarded, and the organizational conditions that allow it to happen.
+
+[Read the publication →](when-breaking-the-leadership-rules-works/index.qmd)
+
 ### Reimagining Leadership: Leaders Are Not Finished Products
 
 A discussion of Jeffrey Pfeffer's critique of the leadership industry and an argument for treating leadership as an ongoing process of individualized development, honest feedback, careful selection, behavioral evaluation, and accountability.
