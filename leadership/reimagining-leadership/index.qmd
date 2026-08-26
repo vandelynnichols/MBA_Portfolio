@@ -1,0 +1,35 @@
+---
+title: "Reimagining Leadership: Leaders Are Not Finished Products"
+author: "Vandelyn Nichols"
+description: "An MBA leadership analysis examining why leadership development should continue beyond promotion through individualized coaching, honest feedback, behavioral evaluation, and accountability."
+bibliography: references.bib
+format:
+  html:
+    toc: false
+    link-citations: true
+---
+
+## Discussion Topic 4
+
+### Prompt
+
+> In light of the realities revealed by Pfeffer, how should, and how can, leadership be re-imagined? Support your arguments with the articles/videos assigned this week and the use of outside research (a minimum of one credible source).
+
+## Response
+
+Pfeffer [-@pfeffer2015] exposes a gap between the leadership qualities organizations say they value and the behaviors they actually reward. Part of that problem is how organizations think about leadership development in the first place. Reimagining leadership starts with changing the assumption that promotion means development is complete. We need to stop treating leaders as finished products. Effective leadership requires the same individualized development, feedback, and accountability that good leaders are expected to provide to their employees.
+
+We already expect good leaders to understand how individual employees communicate, respond to feedback, and want to grow. @goldstein2017 and @negade2023 both emphasize listening, adaptive communication, employee input, and development. The same logic should apply to leaders themselves. A new manager struggling with delegation may need something very different from an experienced executive who avoids difficult conversations or fails to develop people. A general leadership seminar may reinforce useful concepts, but it cannot address every person's actual behavior. Coaching should be tied to the individual, the role, and the specific behaviors that need to improve.
+
+Selection is another place where this can break down. The assigned *Charisma Myth* video describes charisma as a combination of presence, power, and warmth and emphasizes that these behaviors can be learned [@betterthanyesterday2016]. Those qualities can help someone communicate, connect with people, and inspire action, but they can also make a candidate appear more capable than they are. Someone may interview exceptionally well yet lack judgment, competence, or character. Companies need to look beyond confidence and likability by using behavioral interviews, performance history, references, and feedback from former supervisors, peers, and direct reports. Charisma can strengthen leadership, but it should not be mistaken for leadership ability.
+
+Outside research also supports continued, individualized development for leaders. @kirschner2026 found that executives most often associated coaching with improvements in team leadership, communication, people development, and executive presence. @halliwell2022 also found a positive relationship between improvements in emotional intelligence and leadership self-efficacy following coaching. The practical takeaway is simple: coach around specific behaviors and real workplace situations, get feedback from the people who experience that leadership firsthand, and determine whether the behavior actually changes.
+
+Development only works when it is paired with accountability. Coaching and training can help leaders build skills, but repeated violations of organizational values, mistreatment of employees, or refusal to change cannot be overlooked just because someone delivers strong financial results. @obrien2018 connects respect, safety, and belonging with both employee flourishing and organizational performance. If organizations expect those standards from employees, they need to hold leaders to the same standard.
+
+Reimagining leadership is not about creating another checklist of ideal qualities. It is about changing how leaders are selected, developed, evaluated, and held accountable after they move into leadership roles. Development should continue beyond promotion, focus on the individual, and measure real changes in behavior. Pfeffer [-@pfeffer2015] is right that inspirational stories and leadership programs have limited impact if organizations do not pay attention to what leaders actually do. Select carefully, develop individually, give honest feedback, measure behavior, and hold people accountable when change does not occur.
+
+## References
+
+::: {#refs}
+:::
