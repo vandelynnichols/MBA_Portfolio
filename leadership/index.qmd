@@ -8,6 +8,18 @@ Selected MBA leadership work examining how leaders develop people, communicate e
 
 ## Featured Work
 
+### Effective Leadership Still Comes Back to People
+
+An exploration of commonly valued leadership traits, generational differences, individualized development, clarity, and accountability, grounded in both course research and practical leadership experience.
+
+[Read the publication →](what-effective-leadership-looks-like/index.qmd)
+
+### The Leadership Gap: What Organizations Say vs. What They Reward
+
+An analysis of Jeffrey Pfeffer's critique of the leadership industry using NVIDIA and Eli Lilly to examine the gap between ideal leadership traits and the behaviors organizations actually reward.
+
+[Read the publication →](the-leadership-gap/index.qmd)
+
 ### Reimagining Leadership: Leaders Are Not Finished Products
 
 A discussion of Jeffrey Pfeffer's critique of the leadership industry and an argument for treating leadership as an ongoing process of individualized development, honest feedback, careful selection, behavioral evaluation, and accountability.
