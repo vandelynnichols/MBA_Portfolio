@@ -1,0 +1,35 @@
+---
+title: "Effective Leadership Still Comes Back to People"
+author: "Vandelyn Nichols"
+description: "An MBA leadership discussion examining the traits commonly associated with good leadership and why effective leadership still comes back to understanding, developing, and holding people accountable."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Discussion Topic 1
+
+### Prompt
+
+> What are the behaviors/traits/qualities commonly associated with “good leadership” according to the Flipboard/Inc., LinkedIn, and Business Ethics articles? How do these compare to your own conceptualization of the ideal leader/effective leadership?
+
+## Response
+
+Although the three articles approach leadership from slightly different perspectives, a common theme runs through all of them: good leadership requires understanding the people you lead. Effective leaders listen, adapt, communicate clearly, develop their employees, create a sense of purpose and belonging, and hold people accountable. @goldstein2017 describes the leader preferred by many Millennials as passionate, engaging, inspiring, and decisive, but also genuinely concerned about employees as people. He encourages leaders to solicit input and give employees freedom while still establishing clear expectations and deadlines. Similarly, @negade2023 emphasizes adaptive communication, active listening, technological proficiency, continuous development, inclusion, purpose, and the balance between autonomy and collaboration when leading Gen Z employees. @obrien2018 connects respect, safety, and belonging with both an employee’s ability to flourish and the organization’s financial success. She also emphasizes modeling organizational values, understanding employees’ experiences, providing constructive feedback, and applying consequences consistently.
+
+These qualities align closely with my own concept of effective leadership, particularly the emphasis on listening, adaptability, and developing people. I think generational research can provide helpful context for understanding employees’ experiences and expectations, but those characteristics will naturally vary from person to person. What motivates someone can also change throughout different stages of life and their career. For me, regardless of generation, effective leadership comes back to understanding the person you are actually leading. Generational characteristics may be part of that person, but they are only one piece of the picture. A leader has to understand what motivates the individual, how they communicate, where they want to grow, and what support they need to be successful.
+
+I tried to put that into practice in my own business through quarterly meetings with my direct reports, who then followed a similar process with their teams. We discussed individual goals, areas of the business they wanted to learn, resources they needed, and financial goals and KPIs for each store. We revisited those goals every quarter, but the meetings were not only about numbers. I wanted their ideas for improving the business and, when possible, tried to put those ideas into practice. I also created opportunities for employees who wanted to learn areas such as buying or marketing. Development did not always mean preparing someone for a promotion. Sometimes an employee was happy in their current role or simply in a season of life where advancement was not the priority. Good leadership meant understanding that too—continuing to invest in that person without defining their success for them.
+
+I also agree with O’Brien’s [-@obrien2018] argument that employee well-being and business performance are connected. When people feel respected, valued, and supported, they are more likely to feel invested in their work and the people around them. I saw firsthand how quickly one person’s attitude could influence an entire store—positively or negatively. Transparency was another part of that environment. If employees were accountable for financial goals, I wanted them to understand why those goals mattered and how their performance contributed to the business as a whole. Expectations feel different when people understand the “why” behind them rather than experiencing them as arbitrary demands from management.
+
+At the same time, adapting leadership to the individual should not mean changing the standards. Policies, organizational values, performance expectations, and respect for others have to apply to everyone—including the leader. If leaders do not model those values themselves, or if certain people are allowed to ignore them without consequence, those values quickly lose credibility.
+
+What I take away from all three articles is that good leadership still comes back to people. Listen to them, understand them, develop them, and act on what you learn. At the same time, provide clarity, maintain consistent standards, and hold yourself and the team accountable. Do those things well, and you create an environment where people can grow while the team and the business grow with them.
+
+## References
+
+::: {#refs}
+:::
