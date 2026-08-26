@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+# About This Portfolio
+
+This site is a curated collection of selected MBA coursework presented as professional work samples.
+
+The portfolio focuses on applied leadership, strategy, healthcare, finance, and analytics. Each publication is adapted from completed academic work and reviewed for public presentation, citation accuracy, and professional context.
+
+The complete academic archive—including working drafts, class notes, internal course materials, and other non-public files—is maintained separately in a private repository.
+
+## Publication Approach
+
+The goal is not to publish every assignment. It is to highlight work that demonstrates practical analysis, decision-making, communication, and the ability to connect evidence with real business and healthcare questions.
