@@ -1,0 +1,15 @@
+---
+title: "Leadership"
+---
+
+# Leadership
+
+Selected MBA leadership work examining how leaders develop people, communicate expectations, build culture, and remain accountable for both results and the way those results are achieved.
+
+## Featured Work
+
+### Reimagining Leadership: Leaders Are Not Finished Products
+
+A discussion of Jeffrey Pfeffer's critique of the leadership industry and an argument for treating leadership as an ongoing process of individualized development, honest feedback, careful selection, behavioral evaluation, and accountability.
+
+[Read the publication →](reimagining-leadership/index.qmd)
