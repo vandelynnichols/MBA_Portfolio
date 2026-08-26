@@ -24,6 +24,10 @@ The leadership challenge was deciding which parts of the model still created val
 
 Porter’s Five Forces helps explain the competitive pressures IKEA faced in China. Rivalry, buyer power, and the threat of substitutes were high; new-entry pressure was moderate to high; and supplier power was moderate. The problem was not a single force, but the combined pressure they created (Porter 2008; Wei 2018).
 
+![Porter’s Five Forces: IKEA in China](images/Porters_Five_Forces.png)
+
+*Figure 1. Porter’s Five Forces analysis of IKEA in China.*
+
 ### Rivalry — High
 
 IKEA competed with domestic manufacturers, large furniture retailers, international brands, custom-furniture companies, and online sellers. Competition extended beyond the furniture itself. Local businesses could offer similar designs at lower prices, include delivery and assembly, or serve customers in cities where IKEA did not have a store. While IKEA’s brand was difficult to replicate, many of its individual products were not. Between 2000 and 2018, IKEA reduced its prices in China by approximately 60 percent. Lower prices attracted more customers, but they also reflected how competitive the market had become. For IKEA, intense rivalry meant brand recognition alone was not enough (Wei 2018).
@@ -49,6 +53,10 @@ Porter’s Five Forces shows why price cuts alone could not solve IKEA’s compe
 ## Why the Original Model Traveled Poorly: CAGE Analysis
 
 China offered significant opportunities, but IKEA could not assume its European model would work unchanged. Cultural, administrative, geographic, and economic differences affected customer expectations, operating costs, and daily decisions. CAGE helped clarify where standardization still created value and where local decisions were necessary (Ghemawat 2001).
+
+![CAGE Analysis: IKEA in China](images/CAGE_Analysis.png)
+
+*Figure 2. CAGE analysis of IKEA’s expansion into China.*
 
 ### Cultural Distance — 4/5
 
@@ -91,6 +99,10 @@ The more recent financial results keep the case from ending with IKEA’s 2017 t
 China accounted for 3.5 percent of Ingka Group sales in FY2024, down from 3.6 percent in FY2023 (Reid 2024). IKEA also expanded its online presence through Tmall and JD.com. It later announced the closure of seven large stores in China while shifting its focus to smaller locations in Beijing and Shenzhen. The closures and format shift show that IKEA was still reworking how it reached customers, especially beyond its traditional large-store model (Hall 2025; Reuters 2026).
 
 Across Ingka’s Chinese retail, shopping-center, and investment businesses, revenue was falling while losses were growing. Revenue declined from €2.448 billion in FY2022 to €2.103 billion in FY2025, while the pretax loss increased from €248.9 million to €410.0 million. As a share of revenue, the pretax loss grew from approximately 10.2 percent to 19.5 percent (Ingka Group 2022, 2023, 2024, 2025).
+
+![Ingka Group China Financial Results](images/Ingka_Financials.png)
+
+*Figure 3. Recent financial direction across Ingka Group’s Chinese businesses.*
 
 These figures cover more than IKEA’s retail stores. They include Ingka’s retail, shopping-center, and investment businesses in China, as well as transactions between related companies. They are useful for showing the broader financial direction, but they should not be treated as a stand-alone measure of IKEA China’s store performance (Ingka Group 2022, 2023, 2024, 2025).
 
