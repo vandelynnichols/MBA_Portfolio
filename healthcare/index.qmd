@@ -1,0 +1,9 @@
+---
+title: "Healthcare"
+---
+
+# Healthcare
+
+Selected MBA work focused on healthcare delivery, reimbursement, clinical operations, informatics, and the relationship between evidence, incentives, and patient outcomes.
+
+Public-facing versions of completed healthcare projects will be added here as they are prepared for publication.
