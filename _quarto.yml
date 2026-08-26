@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Vandelyn Nichols | MBA Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: leadership/index.qmd
+        text: Leadership
+      - href: global-strategy/index.qmd
+        text: Global Strategy
+      - href: healthcare/index.qmd
+        text: Healthcare
+      - href: about.qmd
+        text: About
+  page-footer:
+    left: "MBA Portfolio | Vandelyn Nichols"
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    link-citations: true
+
+execute:
+  freeze: auto
