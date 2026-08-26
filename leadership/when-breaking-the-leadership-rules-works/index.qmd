@@ -1,0 +1,39 @@
+---
+title: "When Breaking the Leadership Rules Works"
+author: "Vandelyn Nichols"
+description: "An MBA leadership analysis examining when unconventional leadership behaviors can serve a legitimate purpose, why genuinely harmful leaders may still be rewarded, and the organizational conditions that allow it to happen."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Discussion Topic 3
+
+### Prompt
+
+> What is the logic that suggests doing the opposite of the common prescriptions of “effective leadership” can make more sense for the leader and maybe even for organizational performance? In other words, why/how do leaders get away with and even benefit from displaying “problematic” leadership traits/behaviors? What factors/forces allow this to occur? Support your response with arguments made by Pfeffer, the “Superman Effect” article, “Charisma Myth” video, and also with the use of outside research (a minimum of one credible source).
+
+## Response
+
+Pfeffer [-@pfeffer2015] makes an uncomfortable point: sometimes the behaviors we are told to avoid can actually help a leader succeed. Self-promotion, emotional restraint, forcefulness, and selective disclosure can benefit a leader—and sometimes the organization—when there is a legitimate reason for using them. The problem is that genuinely harmful behavior can be rewarded too, especially when strong short-term results are easy to see and the damage to employees is not.
+
+These behaviors are not automatically signs of bad leadership. A forceful approach may be exactly what a team needs during a crisis or turnaround, just as a leader may need to hold back some of their own fear or uncertainty to keep the team steady. @rico2022 similarly found that a more directive approach can be useful when teams face ongoing disruption or have little time to respond, while empowering leadership becomes more valuable when teams have time to adapt. What matters is why the behavior is being used, how long it continues, and who benefits from it.
+
+The *Superman Effect* helps draw that boundary. @cabane2012 explains that a leader’s emotional state can spread to others. Leaders do not need to share every concern or frustration, especially when the team needs steadiness. A leader can acknowledge that a situation is difficult while still projecting confidence. The difference is whether emotional control is being used to support the team or to create a false image. Selective vulnerability can be responsible leadership.
+
+Charisma can make that boundary harder to see. The *Charisma Myth* videos describe charisma as a combination of power, warmth, and presence that can be learned and expressed differently depending on what the situation requires [@betterthanyesterdaya; @betterthanyesterdayb]. Those qualities can help a leader connect with people and earn their trust, but that influence has a downside. Confidence can be mistaken for competence, and a charismatic leader may receive more credit for success or more forgiveness for poor behavior. People may also be less willing to challenge someone who appears powerful and certain.
+
+Organizations can make it easier for this behavior to continue. Senior leaders may see the results a manager delivers without seeing how that manager treats people day to day. The manager may take credit when things go well, shift blame when they do not, and control what information moves upward. Employees may stay quiet because they do not believe speaking up will change anything. As long as the numbers look good, there may be little pressure to act. The leader gets the recognition now, while the costs to the team show up later.
+
+That tradeoff also shows up in the research. @mukherjee2022 found that when leaders moved from an empowering to a directive style, team performance improved, but satisfaction with the leader and affective commitment dropped. The results may appear stronger even as satisfaction and commitment begin to decline.
+
+@mckey2021 describe the combination of destructive leaders, susceptible followers, and enabling organizations as the “toxic triangle.” Their meta-analysis of 418 samples and more than 123,000 employees linked destructive leadership with lower trust, job satisfaction, engagement, and performance, as well as greater burnout and intention to leave. They also identify weak checks and balances, instability, complexity, and limited scrutiny as conditions that allow destructive leadership to continue. A leader may still appear successful even as trust, engagement, and retention begin to suffer.
+
+Problematic leaders often benefit because their wins are easy to see, while the damage to employees is not. Some behaviors that contradict conventional leadership advice can make sense in the right situation. Genuinely harmful leaders, however, often succeed despite those behaviors—not because of them. **The difference is whether the behavior serves the situation or mainly serves the leader.**
+
+## References
+
+::: {#refs}
+:::
