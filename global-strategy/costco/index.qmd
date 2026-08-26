@@ -47,6 +47,12 @@ What makes Costco’s competitive advantage durable is not any single decision b
 
 Competitors can copy individual tactics, but replicating a fully integrated strategy in which every element strengthens the others is far more difficult. That interdependence, more than any individual decision, is what has allowed Costco to sustain its competitive advantage while others with similar ambitions have not [@thompson2020; @porter1985].
 
+## Appendix A
+
+### Business Model Canvas: Costco Wholesale
+
+![Business Model Canvas: Costco Wholesale](images/Costco_Business_Model_Canvas.png){fig-alt="Costco Wholesale Business Model Canvas"}
+
 ## References
 
 ::: {#refs}
