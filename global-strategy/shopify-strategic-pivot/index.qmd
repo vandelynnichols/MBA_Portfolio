@@ -57,6 +57,74 @@ Third, Shopify should launch a more structured merchant-growth program for small
 
 Together, these moves would allow Shopify to pursue AI growth without abandoning enterprise customers or weakening the merchant and developer ecosystem the transition depends on.
 
+## Appendix A: Financial Analysis
+
+![Five-Year Financial Performance, FY2021–FY2025](<images/Five-Year Financial Performance.png>)
+
+*Table 1. Five-Year Financial Performance, FY2021–FY2025.*
+
+![Revenue Growth and Revenue Mix, FY2021–FY2025](<images/Revenue Growth and Revenue Mix.png>)
+
+*Figure 1. Revenue Growth and Revenue Mix, FY2021–FY2025.*
+
+![Profitability and Earnings Quality, FY2021–FY2025](<images/Profitability and Earnings Quality.png>)
+
+*Figure 2. Profitability and Earnings Quality, FY2021–FY2025.*
+
+![Expanding Payments and Lending Risk, FY2021–FY2025](<images/Expanding Payments and Lending Risk.png>)
+
+*Figure 3. Expanding Payments and Lending Risk, FY2021–FY2025.*
+
+## Appendix B: External Analysis
+
+![Porter’s Five Forces Analysis](<images/Shopify’s Five Forces Competitive Landscape.png>)
+
+*Figure 4. Porter’s Five Forces Analysis.*
+
+![PESTEL Analysis](<images/Shopify PESTEL strategy analysis.png>)
+
+*Figure 5. PESTEL Analysis.*
+
+![Industry Life Cycle](<images/Industry Life Cycle.png>)
+
+*Figure 6. Industry Life Cycle.*
+
+![Shopify’s Competitive Arenas](<images/Shopify’s Competitive Arenas Ecosystem.png>)
+
+*Figure 7. Shopify’s Competitive Arenas.*
+
+![Strategic Group Map](<images/Strategic Group Map Infographic.png>)
+
+*Figure 8. Strategic Group Map.*
+
+![Competitive Capability Assessment](<images/Competitive Capability Assessment Infographic.png>)
+
+*Figure 9. Competitive Capability Assessment.*
+
+## Appendix C: Internal Analysis
+
+![SWOT Analysis](images/SWOT.png)
+
+*Figure 10. SWOT Analysis.*
+
+![VRIN Assessment](images/VRIN.png)
+
+*Figure 11. VRIN Assessment.*
+
+![Shopify Value Chain](<images/Value Chain.png>)
+
+*Figure 12. Shopify Value Chain.*
+
+## Appendix D: Strategic Positioning and Recommendation
+
+![Generic Strategy and Strategic Positioning](<images/Strategic Position.png>)
+
+*Figure 13. Generic Strategy / Strategic Positioning.*
+
+![Strategic Issue](images/Strategy.png)
+
+*Figure 14. Strategic Issue.*
+
 ## References
 
 ::: {#refs}
