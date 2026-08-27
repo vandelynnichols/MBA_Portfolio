@@ -34,6 +34,12 @@ Boston Beer operates differently from Starbucks. Rather than managing its own re
 
 Boston Beer’s competitive strength is its ability to identify changing preferences and reposition its portfolio around emerging categories. By fiscal 2025, approximately 86% of shipments came from its Beyond Beer portfolio, demonstrating how far the business had moved beyond Samuel Adams (The Boston Beer Company, Inc. 2025). This approach creates opportunity but also requires ongoing investment in product development, marketing, and brand building. Boston Beer’s conservative balance sheet gives leadership the capacity to fund those investments without relying heavily on debt.
 
+The differences in how Starbucks and Boston Beer create value provide important context for the financial and strategic comparisons that follow. Figure 1 summarizes each business model, competitive strengths, growth strategy, and primary challenge.
+
+![Comparative Company Overview](images/Comparative_Company_Overview.png)
+
+*Figure 1. Comparative Company Overview.*
+
 ## Industry Context
 
 Starbucks competes in a mature but relatively stable coffee market shaped by habitual demand. Growth depends on frequency, pricing, store productivity, international expansion, and deeper digital engagement. Boston Beer competes across beer, hard seltzer, cider, flavored malt beverages, and ready-to-drink products, where demand can change quickly as consumer preferences shift, and even the best products need buy-in from distributors and retailers before they reach customers (Starbucks Corporation 2025; The Boston Beer Company, Inc. 2025).
@@ -42,7 +48,21 @@ Starbucks holds a stronger position because it manages most of the customer expe
 
 Starbucks entered the period with structural advantages, yet its margins declined. Boston Beer operated in a more volatile environment but improved profitability and shareholder returns. The key question is not which company is stronger overall, but which management team used its position more effectively during this period.
 
+Figure 2 summarizes the relative attractiveness of each competitive environment using the key dimensions discussed above.
+
+![Competitive Environment Assessment](images/Competitive_Environment_Assessment.png)
+
+*Figure 2. Competitive Environment Assessment.*
+
+Competitive positioning extends beyond industry attractiveness. Business model, customer access, innovation capability, and financial capacity determine how effectively an organization converts opportunity into long-term value. Figure 3 summarizes these strategic differences.
+
+![Strategic Position Assessment](images/Strategic_Position_Assessment.png)
+
+*Figure 3. Strategic Position Assessment.*
+
 ## Financial Analysis
+
+The financial statements reveal whether each company’s strategy produced stronger business results over time. The analysis focuses on sales, margins, cash flow, financial obligations, and returns on shareholder capital.
 
 ### Sales Trend
 
@@ -50,17 +70,41 @@ Starbucks grew revenue from about $36.0 billion in 2023 to $37.2 billion in 2025
 
 Boston Beer reported approximately $2.01 billion in revenue in both 2023 and 2024, then declined to approximately $1.96 billion in 2025. Lower shipments in established brands more than offset gains from pricing and product mix. The financial improvements will be difficult to sustain unless management can return the business to consistent shipment growth. While newer products offer promise, the core business finished the period with weaker sales momentum (The Boston Beer Company, Inc. 2023, 2024, 2025).
 
+Figure 4 summarizes the key income statement trends.
+
+![Horizontal Analysis of Key Income Statement Metrics](<images/Horizontal Analysis_of_Key_Income_Statement_Metrics.png>)
+
+*Figure 4. Horizontal Analysis of Key Income Statement Metrics.*
+
 ### Margins and Earnings
 
 Starbucks’ revenue growth did not translate into earnings growth. Operating and net margins declined as labor investment, store costs, restructuring, and weaker transaction leverage consumed a larger share of revenue. Net income fell from approximately $4.12 billion in 2023 to $1.86 billion in 2025, and net margin declined from approximately 11.5% to 5.0%. Management may be making the right long-term investments, but the 2025 results show that the existing platform was generating less profit per sales dollar (Starbucks Corporation 2023, 2025).
 
 Boston Beer improved the business’s economics despite lower volume. Gross margin increased from approximately 42.4% in 2023 to 48.5% in 2025, driven by pricing, product mix, procurement, brewery efficiency, and improved contract negotiations. Net margin recovered to approximately 5.5%. The improvement came from better execution within the existing revenue base rather than leverage or rapid expansion (The Boston Beer Company, Inc. 2023, 2025).
 
+The financial ratios reinforce the trends already visible in the financial statements. Figure 5 summarizes the key comparisons.
+
+![Financial Ratio Analysis](images/Financial_Ratio_Analysis.png)
+
+*Figure 5. Financial Ratio Analysis.*
+
 ### Financial Position and Cash Flow
 
 Starbucks generated strong cash flow, but much of it was required to support its large operating footprint, ongoing investments, lease payments, dividends, share buybacks, and the current turnaround effort. Negative shareholders’ equity, created largely by historical capital returns, does not imply that the company lacks economic value. It does mean that the balance sheet offers less flexibility and that traditional return on equity is less useful as a performance measure, especially when margins are already under pressure (Starbucks Corporation 2025).
 
 Boston Beer maintained positive equity, low debt, and stronger liquidity. Although its total cash flow was lower, the company had fewer fixed commitments, leaving more cash available for new product development, marketing, targeted acquisitions, or share repurchases. That flexibility is especially valuable in a category where new product launches are expensive and not all succeed (The Boston Beer Company, Inc. 2025).
+
+The balance sheet shows how each company financed its business and positioned itself for future growth. Figure 6 summarizes those differences.
+
+![Comparative Balance Sheet Summary](images/Comparative_Balance_Sheet_Summary.png)
+
+*Figure 6. Comparative Balance Sheet Summary.*
+
+Cash flow shows how much cash each company generated, reinvested, and retained. Figure 7 summarizes those results.
+
+![Comparative Cash Flow Summary](images/Comparative_Cash_Flow_Summary.png)
+
+*Figure 7. Comparative Cash Flow Summary.*
 
 ### Return on Equity
 
@@ -105,6 +149,12 @@ Starbucks does not need a new business model. The challenge is to make the curre
 Boston Beer enters the next phase with a stronger balance sheet but faces more questions about future demand. The company has already improved margins and cash flow; the next challenge is generating enough growth from brands like Twisted Tea and Sun Cruiser to offset declines elsewhere. Its conservative capital structure gives management the flexibility to invest in innovation, acquisitions, or share repurchases without the pressure of heavy debt, but financial flexibility alone cannot create demand.
 
 The argument for each company depends on a different set of assumptions. For Starbucks, the question is whether management can get the global business back on track. For Boston Beer, the focus is on whether improved margins and cash flow can translate into new growth. Starbucks brings more brand value if the turnaround works, while Boston Beer faces fewer balance-sheet and profitability assumptions working against it as it looks for its next phase of growth.
+
+Starbucks and Boston Beer each possess meaningful competitive strengths, but they excel in different areas. Figure 8 integrates the strategic and financial evidence into a single decision framework supporting the final recommendation.
+
+![Strategic Synthesis and Final Decision Matrix](<images/Strategic Synthesis_ Final_Decision_Matrix.png>)
+
+*Figure 8. Strategic Synthesis and Final Decision Matrix.*
 
 ## Conclusion
 
