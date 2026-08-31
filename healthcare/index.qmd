@@ -21,3 +21,9 @@ An analysis of defensive and offensive data strategy in healthcare, using nutrit
 An analysis of how connected clinical data can move healthcare from information collection to action, using nutrition support, laboratory, and ICU data to examine interoperability, clinical decision support, and earlier risk identification.
 
 [Read the publication →](informatics/analysis-report-02/index.qmd)
+
+### Analysis Report Three: Information Systems and Healthcare Provider Interactions
+
+An analysis of how EHR design, documentation standards, workflow fit, and data quality affect provider interactions with healthcare information systems, using ICU weight and dietitian documentation to examine usability, trust, and readiness for advanced analytics.
+
+[Read the publication →](informatics/analysis-report-03/index.qmd)
