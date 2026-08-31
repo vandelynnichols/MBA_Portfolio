@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <rect width="1200" height="780" fill="white"/>
+  <text x="70" y="60" font-family="Arial, sans-serif" font-size="34" font-weight="600">Weight Documentation by ICU Unit and Caregiver Type</text>
+  <rect x="90" y="100" width="820" height="570" fill="#eeeeee"/>
+  <g stroke="white" stroke-width="2">
+    <line x1="90" y1="670" x2="910" y2="670"/><line x1="90" y1="545" x2="910" y2="545"/>
+    <line x1="90" y1="420" x2="910" y2="420"/><line x1="90" y1="295" x2="910" y2="295"/>
+    <line x1="90" y1="170" x2="910" y2="170"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#444">
+    <text x="52" y="678">0</text><text x="40" y="553">10</text><text x="40" y="428">20</text><text x="40" y="303">30</text><text x="40" y="178">40</text>
+  </g>
+  <!-- CCU total 11: RN 10 + unlabeled 1 -->
+  <rect x="135" y="545" width="105" height="125" fill="#619CFF"/><rect x="135" y="532" width="105" height="13" fill="#F8766D"/>
+  <!-- CSRU total 13: RN 12 + Rn 1 -->
+  <rect x="295" y="520" width="105" height="150" fill="#619CFF"/><rect x="295" y="507" width="105" height="13" fill="#00BA38"/>
+  <!-- MICU total 42: RN 35 + unlabeled 7 -->
+  <rect x="455" y="232" width="105" height="438" fill="#619CFF"/><rect x="455" y="145" width="105" height="87" fill="#F8766D"/>
+  <!-- SICU total 24: RN 24 -->
+  <rect x="615" y="370" width="105" height="300" fill="#619CFF"/>
+  <!-- TSICU total 3: RN 2 + unlabeled 1 -->
+  <rect x="775" y="645" width="105" height="25" fill="#619CFF"/><rect x="775" y="632" width="105" height="13" fill="#F8766D"/>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#444" text-anchor="middle">
+    <text x="187" y="710">CCU</text><text x="347" y="710">CSRU</text><text x="507" y="710">MICU</text><text x="667" y="710">SICU</text><text x="827" y="710">TSICU</text>
+  </g>
+  <text x="470" y="755" font-family="Arial, sans-serif" font-size="25">ICU Unit</text>
+  <text transform="translate(24 500) rotate(-90)" font-family="Arial, sans-serif" font-size="25">Number of weight documentation events</text>
+  <text x="945" y="210" font-family="Arial, sans-serif" font-size="25" font-weight="600">Caregiver Type</text>
+  <rect x="950" y="245" width="32" height="32" fill="#F8766D"/><text x="995" y="270" font-family="Arial, sans-serif" font-size="22">Unlabeled</text>
+  <rect x="950" y="295" width="32" height="32" fill="#00BA38"/><text x="995" y="320" font-family="Arial, sans-serif" font-size="22">Rn</text>
+  <rect x="950" y="345" width="32" height="32" fill="#619CFF"/><text x="995" y="370" font-family="Arial, sans-serif" font-size="22">RN</text>
+</svg>
