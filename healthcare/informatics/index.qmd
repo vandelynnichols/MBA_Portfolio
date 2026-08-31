@@ -8,6 +8,8 @@ Selected work from MBA 673 — Healthcare Information Systems, focused on using 
 
 ## Analysis Reports
 
-### [Analysis Report One — What's Your Data Strategy](analysis-report-01/index.qmd)
+### Analysis Report One: What's Your Data Strategy?
 
-Examines the balance between defensive and offensive data strategy in healthcare, using nutrition-related clinical data to explore early risk identification, data quality, and transitions of care.
+An analysis of defensive and offensive data strategy in healthcare, using nutrition-related clinical data to examine early risk identification, data quality, and transitions of care.
+
+[Read the publication →](analysis-report-01/index.qmd)
