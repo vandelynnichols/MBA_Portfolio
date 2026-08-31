@@ -11,7 +11,7 @@ CHARTEVENTS was used as the main table because it contains the actual daily weig
 
 The WHERE clause filtered the data to include only daily weight records with values greater than zero. This helped remove blank, missing, or unusable entries. The query then used COUNT(*) to count the number of documentation events and grouped the results by ICU unit and caregiver type. The final query asks: for each ICU unit, how many daily weight documentation events were entered, and which caregiver types entered them?
 
-![](../weight-documentation-by-icu-unit-and-caregiver-type.svg){fig-alt="Stacked bar chart showing daily weight documentation events by ICU unit and caregiver type."}
+![](weight-documentation-by-icu-unit-and-caregiver-type.svg){fig-alt="Stacked bar chart showing daily weight documentation events by ICU unit and caregiver type."}
 
 The graph indicates that nurses entered the majority of daily weight documentation events. Most caregiver labels appear as RN, but some entries are Rn, and at least one category lacks a clear caregiver label. This is a small but important data quality finding. If the same caregiver role is documented with different capitalization, or if some caregiver IDs lack clear labels, the data becomes harder to summarize and trust. Leaders should consider whether this reflects a simple labeling issue or a broader problem with role mapping, documentation standards, or data governance.
 
@@ -32,7 +32,7 @@ CHARTEVENTS was used because it contains the actual charting events and includes
 
 The final query asks: for each ICU unit, how many nutrition-assessment fields were documented by dietitian-type caregivers?
 
-![](../dietitian-documented-nutrition-assessment-elements-by-icu-unit.svg){fig-alt="Stacked bar chart showing dietitian-documented nutrition assessment elements by ICU unit."}
+![](dietitian-documented-nutrition-assessment-elements-by-icu-unit.svg){fig-alt="Stacked bar chart showing dietitian-documented nutrition assessment elements by ICU unit."}
 
 The graph indicates that dietitian-documented nutrition assessment fields were most frequently recorded in the MICU, followed by the SICU. Fewer charting events appeared in the CCU and TSICU, and no CSRU documentation was identified in this output. This does not necessarily mean dietitians were not involved in those units. Documentation may have been entered elsewhere, under different caregiver roles, or in fields not captured by this query. That uncertainty is part of the informatics issue. When data is difficult to locate or scattered across multiple areas of the EHR, it becomes harder for leaders to evaluate nutrition care consistently.
 
