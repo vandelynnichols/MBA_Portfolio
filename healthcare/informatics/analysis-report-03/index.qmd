@@ -1,0 +1,25 @@
+---
+title: "Analysis Report Three — Information Systems and Healthcare Provider Interactions"
+author: "Vandelyn Nichols"
+description: "An MBA healthcare informatics analysis of how EHR design, documentation standards, workflow fit, and data quality shape provider interactions with health information systems."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+{{< include sections/01-executive-summary.md >}}
+
+{{< include sections/02-introduction.md >}}
+
+{{< include sections/03-healthcare-context.md >}}
+
+{{< include sections/04-data-visualizations.md >}}
+
+{{< include sections/05-recommendations.md >}}
+
+## References
+
+::: {#refs}
+:::
