@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1300" height="800" viewBox="0 0 1300 800">
+  <rect width="1300" height="800" fill="white"/>
+  <text x="70" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="600">Dietitian-Documented Nutrition Assessment Elements by ICU Unit</text>
+  <rect x="90" y="100" width="760" height="570" fill="#eeeeee"/>
+  <g stroke="white" stroke-width="2">
+    <line x1="90" y1="670" x2="850" y2="670"/><line x1="90" y1="520" x2="850" y2="520"/>
+    <line x1="90" y1="370" x2="850" y2="370"/><line x1="90" y1="220" x2="850" y2="220"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="21" fill="#444">
+    <text x="52" y="678">0</text><text x="40" y="528">10</text><text x="40" y="378">20</text><text x="40" y="228">30</text>
+  </g>
+  <!-- CCU total 10 -->
+  <rect x="130" y="655" width="110" height="15" fill="#F564E3"/><rect x="130" y="640" width="110" height="15" fill="#9C82F7"/>
+  <rect x="130" y="610" width="110" height="30" fill="#10A9D5"/><rect x="130" y="580" width="110" height="30" fill="#00BD8B"/>
+  <rect x="130" y="550" width="110" height="30" fill="#49B600"/><rect x="130" y="520" width="110" height="30" fill="#C79A00"/>
+  <!-- MICU total 37 -->
+  <rect x="310" y="595" width="110" height="75" fill="#F564E3"/><rect x="310" y="520" width="110" height="75" fill="#9C82F7"/>
+  <rect x="310" y="355" width="110" height="165" fill="#10A9D5"/><rect x="310" y="340" width="110" height="15" fill="#00BD8B"/>
+  <rect x="310" y="325" width="110" height="15" fill="#49B600"/><rect x="310" y="190" width="110" height="135" fill="#C79A00"/>
+  <rect x="310" y="115" width="110" height="75" fill="#F8766D"/>
+  <!-- SICU total 22 -->
+  <rect x="490" y="610" width="110" height="60" fill="#F564E3"/><rect x="490" y="550" width="110" height="60" fill="#9C82F7"/>
+  <rect x="490" y="490" width="110" height="60" fill="#10A9D5"/><rect x="490" y="460" width="110" height="30" fill="#00BD8B"/>
+  <rect x="490" y="430" width="110" height="30" fill="#49B600"/><rect x="490" y="385" width="110" height="45" fill="#C79A00"/>
+  <rect x="490" y="340" width="110" height="45" fill="#F8766D"/>
+  <!-- TSICU total 5 -->
+  <rect x="670" y="655" width="110" height="15" fill="#F564E3"/><rect x="670" y="640" width="110" height="15" fill="#9C82F7"/>
+  <rect x="670" y="625" width="110" height="15" fill="#10A9D5"/><rect x="670" y="610" width="110" height="15" fill="#C79A00"/>
+  <rect x="670" y="595" width="110" height="15" fill="#F8766D"/>
+  <g font-family="Arial, sans-serif" font-size="22" fill="#444" text-anchor="middle">
+    <text x="185" y="710">CCU</text><text x="365" y="710">MICU</text><text x="545" y="710">SICU</text><text x="725" y="710">TSICU</text>
+  </g>
+  <text x="420" y="755" font-family="Arial, sans-serif" font-size="25">ICU Unit</text>
+  <text transform="translate(24 500) rotate(-90)" font-family="Arial, sans-serif" font-size="25">Number of charting events</text>
+  <text x="885" y="210" font-family="Arial, sans-serif" font-size="24" font-weight="600">Nutrition Assessment Element</text>
+  <g font-family="Arial, sans-serif" font-size="19">
+    <rect x="890" y="235" width="28" height="28" fill="#F8766D"/><text x="930" y="257">Admission Weight (Kg)</text>
+    <rect x="890" y="275" width="28" height="28" fill="#C79A00"/><text x="930" y="297">Admission Weight (lbs.)</text>
+    <rect x="890" y="315" width="28" height="28" fill="#49B600"/><text x="930" y="337">Estimated Energy Needs/Kg</text>
+    <rect x="890" y="355" width="28" height="28" fill="#00BD8B"/><text x="930" y="377">Estimated Protein Needs/Kg</text>
+    <rect x="890" y="395" width="28" height="28" fill="#10A9D5"/><text x="930" y="417">Feeding Weight</text>
+    <rect x="890" y="435" width="28" height="28" fill="#9C82F7"/><text x="930" y="457">Height</text>
+    <rect x="890" y="475" width="28" height="28" fill="#F564E3"/><text x="930" y="497">Height (cm)</text>
+  </g>
+</svg>
