@@ -25,3 +25,15 @@ An analysis of how connected clinical data can move healthcare from information 
 An analysis of how EHR design, documentation standards, workflow fit, and data quality affect provider interactions with healthcare information systems, using ICU weight and dietitian documentation to examine usability, trust, and readiness for advanced analytics.
 
 [Read the publication →](analysis-report-03/index.qmd)
+
+### Analysis Report Four: Health Privacy and Data Profiling
+
+An analysis of health privacy, cybersecurity, and data profiling using a longitudinal MIMIC-III patient record to examine the value and sensitivity of connected EHR data, organizational resilience, and responsible data governance.
+
+[Read the publication →](analysis-report-04/index.qmd)
+
+### Analysis Report Five: Financial Modeling Using the MIMIC-III Database
+
+A financial model combining MIMIC-III enteral nutrition utilization, estimated acquisition costs, and published clinical evidence to evaluate the potential clinical and financial value of an early peptide-based enteral nutrition protocol.
+
+[Read the publication →](analysis-report-05/index.qmd)
