@@ -8,7 +8,7 @@ The INPUTEVENTS_MV table tracks what items are given to patients, but it mostly 
 
 To make the data useful, INPUTEVENTS_MV and D_ITEMS were linked using the shared itemid field. This step connects the record of what was given to patients with clear descriptions of those products, making the information much easier to interpret and act on.
 
-![](../nutrition-support-events-icu.svg){fig-alt="Bar chart showing documented enteral and parenteral nutrition support events among ICU patients, with enteral products documented more frequently than parenteral products."}
+![](nutrition-support-events-icu.svg){fig-alt="Bar chart showing documented enteral and parenteral nutrition support events among ICU patients, with enteral products documented more frequently than parenteral products."}
 
 The results show that enteral nutrition products were documented far more frequently than parenteral nutrition products in this dataset. Replete with Fiber was the most frequently documented product, while TPN products were documented much less often. It is important to note that this graph counts documented nutrition support events rather than unique patients. If a patient received the same product several times, each event is counted separately.
 
@@ -24,7 +24,7 @@ While the first visualization focused on nutrition support utilization, the seco
 
 This analysis uses a three-table join involving INPUTEVENTS_MV, LABEVENTS, and ICUSTAYS. INPUTEVENTS_MV identifies patients receiving enteral nutrition support, LABEVENTS contains laboratory results collected during the admission, and ICUSTAYS provides information about the ICU unit where the patient received care.
 
-![](../low-phosphate-values-by-icu-unit.svg){fig-alt="Boxplot showing phosphate values below 3 mg/dL among patients receiving enteral nutrition support, grouped by ICU unit."}
+![](low-phosphate-values-by-icu-unit.svg){fig-alt="Boxplot showing phosphate values below 3 mg/dL among patients receiving enteral nutrition support, grouped by ICU unit."}
 
 The boxplot displays phosphate values below 3 mg/dL among patients receiving enteral nutrition support, organized by ICU unit. Limiting the analysis to low and borderline-low phosphate values focuses attention on patients who may be at greater risk for electrolyte abnormalities. Given that the normal phosphate reference range is approximately 2.5 to 4.5 mg/dL, this visualization highlights a subset of patients receiving nutrition support who may require closer monitoring and follow-up (@dasilva2020aspen; @mccray2005refeeding).
 
