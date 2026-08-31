@@ -2,122 +2,22 @@
 title: "Analysis Report Two — Data, Data Everywhere"
 author: "Vandelyn Nichols"
 description: "An MBA healthcare informatics analysis of how connected clinical data, decision support, and predictive analytics can turn fragmented hospital information into actionable insight."
-format: html
-toc: true
 bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
 ---
 
-## Executive Summary
+{{< include sections/01-executive-summary.md >}}
 
-Modern healthcare organizations generate information from nearly every aspect of patient care, including electronic health records, laboratory systems, medication records, monitoring devices, nutrition documentation, and numerous other digital platforms. Despite this abundance of information, healthcare leaders frequently encounter challenges in converting data into meaningful action. The greatest opportunities to improve quality, safety, and operational performance do not lie in gathering additional data but in integrating existing data in ways that support better decision-making (@raghupathi2014big; @nan2023designing).
+{{< include sections/02-introduction.md >}}
 
-Connecting information from different parts of the healthcare organization can reveal patterns that would be difficult to identify when data remains isolated within individual systems. Integrating nutrition support documentation, laboratory monitoring data, and ICU unit information provides a more complete view of patients receiving enteral nutrition and helps identify where closer monitoring for low phosphate levels may be needed. This example reflects a broader challenge across healthcare: meaningful clinical insight often emerges only when information from different systems is brought together and analyzed as a whole.
+{{< include sections/03-healthcare-context.md >}}
 
-For healthcare administrators, the key takeaway is that data integration must be treated as both a clinical and operational priority. Organizations should focus on improving interoperability across systems, embedding critical information directly into clinical workflows, developing targeted clinical decision support tools, standardizing monitoring protocols for high-risk patients, and leveraging predictive analytics to identify risk earlier. Hospitals that connect data to action will be better positioned to improve patient outcomes, enhance patient safety, reduce missed opportunities for intervention, and transition from being data-rich to truly insight-driven (@sutton2020overview; @dasilva2020aspen; @raphaeli2023machineLearning).
+{{< include sections/04-data-visualizations.md >}}
 
-## Introduction
-
-Modern healthcare runs on information. Every patient encounter generates data through electronic health records, laboratory systems, imaging platforms, monitoring devices, billing systems, and countless other digital tools. While healthcare has become increasingly data-rich, simply collecting more data does not guarantee better decisions or improved patient outcomes. The real value lies in an organization’s ability to transform raw information into actionable insights that support clinical, operational, and strategic decision-making (@raghupathi2014big).
-
-Despite these advances, healthcare organizations continue to face a persistent challenge in managing the sheer volume, variety, and complexity of information generated across disparate systems and departments. Siloed information makes it difficult for clinicians and administrators to gain a comprehensive view when making decisions. As a result, organizations must move beyond viewing information as a byproduct of care and instead leverage it as a resource that supports quality, efficiency, patient safety, and overall performance (@raghupathi2014big).
-
-Clinical Decision Support Systems (CDSS) help bridge the gap between data collection and clinical decision-making by combining patient-specific information with evidence-based knowledge. CDSS tools support providers at the point of care through recommendations, reminders, alerts, and other forms of decision support. Rather than replacing clinical judgment, these systems are designed to enhance decision-making in increasingly complex healthcare environments. When implemented effectively, CDSS have been shown to improve adherence to clinical guidelines, reduce medication errors, strengthen documentation, and improve patient safety outcomes (@sutton2020overview).
-
-At the same time, technology by itself does not create value. The effectiveness of data-driven healthcare depends on strong data quality, governance, workflow integration, and clinician adoption. Poorly designed systems can contribute to alert fatigue, workflow disruptions, and reduced trust among users. Successful healthcare organizations must therefore balance technological innovation with thoughtful implementation strategies that ensure information remains accurate, accessible, and actionable (@sutton2020overview).
-
-Healthcare is entering a new era in which artificial intelligence, machine learning, and advanced analytics are expanding the capabilities of traditional decision support systems. Rather than simply reporting what has already happened, modern analytics tools increasingly seek to identify patterns, predict outcomes, personalize interventions, and support earlier decision-making. At the same time, patients are becoming more informed and engaged in their own care, creating new expectations for accessibility, personalization, and convenience. Organizations that can effectively integrate data, analytics, clinical expertise, and patient-centered technologies will be better positioned to improve outcomes, enhance operational performance, and adapt to the growing complexity of modern healthcare (@deloitte2024clinicians).
-
-Healthcare organizations that effectively integrate data, analytics, decision support, and clinical expertise will be better positioned to improve outcomes, enhance operational performance, and respond to the increasing complexity of modern care. Whether through big data analytics, clinical decision support systems, or emerging artificial intelligence technologies, the future of healthcare will depend on an organization’s ability to transform information into meaningful action.
-
-## The Healthcare Context
-
-Healthcare organizations now capture data at nearly every point of patient care. Electronic health records, laboratory systems, pharmacy systems, imaging platforms, monitoring devices, nutrition documentation, billing systems, and scheduling platforms all generate valuable information that can inform clinical and operational decision-making. Each system is designed to address a specific purpose, but the result is often a patchwork of disconnected platforms. This fragmentation makes it challenging for clinicians and administrators to access a complete view of the patient, limiting the ability to make fully informed decisions and optimize care delivery.
-
-One of the largest barriers to effective decision-making is that critical information is often siloed across different systems and departments. Laboratory results, medication records, nutrition documentation, and unit-level care information may each reside in separate platforms, making it difficult to connect the dots across a patient’s care journey. Research on healthcare interoperability highlights how disconnected systems create “data islands” that limit information sharing, reduce efficiency, and hinder coordinated care efforts. Integrating these systems allows organizations to create a more complete view of patients, workflows, and organizational performance (@nan2023designing).
-
-Technology is central to bridging these gaps. By leveraging interoperability standards, data warehouses, and analytics platforms, organizations can bring together information from across the care continuum. This integration allows clinicians to move beyond isolated data points and evaluate how different aspects of care interact. For example, laboratory values can be examined alongside medication administration records, nutrition support documentation, vital signs, ICU unit information, and patient outcomes. Individually, these datasets provide limited insight. Together, they can reveal clinically meaningful patterns that might otherwise go unnoticed. These integrated datasets also provide the foundation for Clinical Decision Support Systems (CDSS), which use patient-specific information to generate recommendations, reminders, and alerts that help clinicians make more informed decisions at the point of care (@sutton2020overview).
-
-The benefits of integration go well beyond the individual patient level. With comprehensive datasets, organizations can identify areas for quality improvement, monitor operational performance, reduce unnecessary service duplication, and support evidence-based decision-making. Big Data analytics enables healthcare leaders to identify trends across populations and care settings, allocate resources more effectively, and develop strategies that anticipate rather than react to challenges. More recently, advances in artificial intelligence and machine learning have further expanded these capabilities, enabling organizations to shift from retrospective analysis to predictive insights that help identify risk before issues arise. These technologies have the potential to augment clinical decision-making, personalize care, and support earlier interventions while allowing clinicians to focus more attention on patient relationships and complex care decisions (@deloitte2024clinicians; @raphaeli2023machineLearning).
-
-Integrating healthcare data also introduces significant challenges. As systems become more connected, organizations must address concerns related to data quality, governance, privacy, cybersecurity, and user trust. Inaccurate or incomplete data can produce misleading conclusions, while poorly designed decision support systems can contribute to alert fatigue and workflow disruption (@sutton2020overview). Similarly, advanced analytics and artificial intelligence systems are only as reliable as the data used to train and support them. Without strong governance structures, organizations risk generating large volumes of information without improving decision-making or patient care. The same integrated datasets that can improve care coordination, identify patient risk, and support evidence-based decision-making can also introduce new challenges when information is inaccurate, incomplete, delayed, or presented in ways that overwhelm clinicians. As a result, healthcare organizations must focus not only on integrating data, but on ensuring that the information generated is reliable, relevant, and actionable.
-
-The goal of healthcare data integration is not simply to connect systems, but to improve the quality of decisions made throughout the organization. When integration is done well, clinicians, administrators, and healthcare leaders can move from reactive decision-making towards more proactive, informed strategies that drive better outcomes. Achieving this requires more than just technology; it demands strong governance, thoughtful implementation, and a continued focus on improving patient outcomes.
-
-## Data Visualizations
-
-### Visualization One — Two Table Join
-
-This first visualization looks at documented nutrition support events among ICU patients. The goal was to show how connecting information from different parts of the hospital database can transform raw data into insights that support clinical and operational decision-making.
-
-The INPUTEVENTS_MV table tracks what items are given to patients, but it mostly uses numeric item IDs for nutrition products. On their own, these numbers do not mean much to clinicians or administrators. The D_ITEMS table acts like a hospital dictionary because it translates those item IDs into recognizable labels and categories.
-
-To make the data useful, INPUTEVENTS_MV and D_ITEMS were linked using the shared itemid field. This step connects the record of what was given to patients with clear descriptions of those products, making the information much easier to interpret and act on.
-
-![](nutrition-support-events-icu.png){fig-alt="Bar chart showing documented enteral and parenteral nutrition support events among ICU patients, with enteral products documented more frequently than parenteral products."}
-
-The results show that enteral nutrition products were documented far more frequently than parenteral nutrition products in this dataset. Replete with Fiber was the most frequently documented product, while TPN products were documented much less often. It is important to note that this graph counts documented nutrition support events rather than unique patients. If a patient received the same product several times, each event is counted separately.
-
-For healthcare organizations, this example demonstrates why data integration matters. The administration table alone shows that something was given, but not in a way that is easy to interpret. The dictionary table alone shows what products exist, but not whether they were actually used in patient care. By joining the two tables, organizations can begin to understand how nutrition support products are being utilized across the ICU.
-
-This example reflects a broader principle of healthcare analytics: organizations already collect large volumes of clinical and operational data, but the greatest value comes from combining and analyzing that information in ways that support better decisions (@raghupathi2014big). It also highlights the importance of interoperability, as information often must be connected across systems before meaningful patterns become visible (@nan2023designing).
-
-For hospital leaders, this type of analysis can support inventory planning, product standardization, purchasing decisions, oversight of nutrition support practices, and quality improvement initiatives. It also creates the foundation for more advanced analytics and clinical decision support. Once an organization can identify which patients are receiving nutrition support, it can begin linking that information to laboratory values, medication use, complications, and patient outcomes.
-
-### Visualization Two — Three Table Join
-
-While the first visualization focused on nutrition support utilization, the second extends the analysis by linking nutrition support documentation to laboratory monitoring data and ICU unit information. The goal was to show how bringing together data from different clinical systems can provide a more complete view of patient care and help identify patterns that may otherwise go unnoticed.
-
-This analysis uses a three-table join involving INPUTEVENTS_MV, LABEVENTS, and ICUSTAYS. INPUTEVENTS_MV identifies patients receiving enteral nutrition support, LABEVENTS contains laboratory results collected during the admission, and ICUSTAYS provides information about the ICU unit where the patient received care.
-
-![](low-phosphate-values-by-icu-unit.png){fig-alt="Boxplot showing phosphate values below 3 mg/dL among patients receiving enteral nutrition support, grouped by ICU unit."}
-
-The boxplot displays phosphate values below 3 mg/dL among patients receiving enteral nutrition support, organized by ICU unit. Limiting the analysis to low and borderline-low phosphate values focuses attention on patients who may be at greater risk for electrolyte abnormalities. Given that the normal phosphate reference range is approximately 2.5 to 4.5 mg/dL, this visualization highlights a subset of patients receiving nutrition support who may require closer monitoring and follow-up (@dasilva2020aspen; @mccray2005refeeding).
-
-Low phosphate values were present across the CCU, MICU, and SICU groups, although the MICU group showed the lowest outlier values and a slightly lower overall distribution than the other units. While this does not prove that MICU patients are at higher risk, the findings suggest that medical ICU patients receiving enteral nutrition may represent an important population for closer electrolyte monitoring and targeted clinical decision support (@dasilva2020aspen).
-
-This analysis demonstrates the value of combining information from multiple clinical systems. Nutrition support documentation alone does not capture laboratory abnormalities, and laboratory values by themselves do not indicate whether nutrition therapy is being delivered. ICU unit information adds important clinical and operational context. Together, these datasets make it possible to identify patients receiving enteral nutrition who also have low phosphate levels and determine where those abnormalities appear most frequently across ICU settings.
-
-Integrated datasets also provide the foundation for Clinical Decision Support Systems that help clinicians identify patients who may require closer monitoring or intervention (@sutton2020overview). In this example, combining nutrition support, laboratory, and ICU-unit information creates a more complete picture of patient risk and supports more informed clinical decision-making.
-
-This analysis is especially relevant from a patient safety perspective because phosphorus is routinely monitored in patients receiving nutrition support, particularly among critically ill populations. Low phosphate levels often indicate the need for additional assessment or intervention, making early identification an important clinical priority. The ability to identify where these abnormalities occur most frequently may help organizations evaluate monitoring practices and focus improvement efforts where they are likely to have the greatest impact (@dasilva2020aspen; @mccray2005refeeding).
-
-This type of integrated data also creates opportunities for more advanced analytics. Rather than reporting low phosphate values only after they occur, healthcare organizations can apply predictive analytics and machine learning to identify patients at risk for complications earlier in their hospital stay. Over time, combining variables such as nutrition support status, phosphate trends, ICU unit, medication use, mechanical ventilation status, severity of illness, and recent intake history can support earlier risk identification and enable more proactive clinical decision-making (@raphaeli2023machineLearning).
-
-## Recommendations for Industry
-
-Healthcare organizations collect large amounts of clinical and operational data, but that data only becomes valuable when it can be used to support action at the point of care. The examples in this report—nutrition support, phosphate, and ICU-unit data—demonstrate how connecting information across hospital systems can help identify patients who require closer monitoring, earlier intervention, or more coordinated care. Based on this analysis, several strategic recommendations emerge.
-
-#### Integrate Nutrition, Laboratory, and Medication Data Into Clinical Workflows
-
-One of the greatest opportunities is to integrate nutrition documentation, laboratory values, medication records, clinical assessments, and unit-level care information into a single, usable workflow. Making key information such as phosphorus, magnesium, potassium, glucose, insulin use, nutrition support orders, and ICU unit location visible within the nutrition assessment section of the electronic chart streamlines clinician workflows and enables timely identification of patients at risk for nutrition-related complications.
-
-This recommendation directly connects to the two visualizations in this report. The first visualization showed that nutrition support documentation became more meaningful only after administration records were connected to item descriptions. The second visualization extended that logic by connecting enteral nutrition documentation to phosphate laboratory values and ICU unit information. In practice, this type of integration could help dietitians, pharmacists, nurses, and providers view nutrition support, electrolyte trends, and care-unit context together rather than as separate pieces of information. Reducing these data silos can improve care coordination, support more timely decisions, and strengthen operational visibility across the organization (@nan2023designing).
-
-#### Build Targeted Clinical Decision Support for Nutrition Support Initiation
-
-Healthcare organizations should develop targeted Clinical Decision Support Systems (CDSS) for patients initiating nutrition support, especially those in the ICU or at risk of refeeding-related electrolyte shifts. For example, when enteral or parenteral nutrition is initiated in a high-risk patient, the electronic health record could automatically prompt clinicians to check baseline phosphorus, magnesium, and potassium and continue monitoring these electrolytes during the early refeeding period.
-
-A more advanced workflow could notify the nutrition team when a patient’s phosphate level drops during the initial days after nutrition support begins. Because the alert would be tied to a specific patient condition, treatment, lab trend, and care setting, it would be more clinically useful than a generic warning. The goal is not to create more alerts, but to create better alerts that help clinicians focus on patients who may need closer monitoring or intervention. This supports the broader purpose of CDSS: providing timely decision support at the point of care while minimizing unnecessary workflow disruption and alert fatigue (@sutton2020overview).
-
-#### Standardize Early Monitoring and Refeeding-Risk Protocols
-
-Standardized monitoring protocols should be in place for patients at risk of refeeding syndrome or electrolyte abnormalities upon initiation of nutrition support. For high-risk patients, this should include checking potassium, magnesium, and phosphorus before feeding begins and monitoring these values every 12 hours for the first 3 days, with more frequent monitoring when clinically appropriate. The process should also include clear guidance for replacing low electrolytes based on institutional standards of care.
-
-For patients with possible malnutrition, prolonged poor intake, or other refeeding risk factors, the electronic health record should prompt clinicians to consider thiamine supplementation before or at the start of nutrition support. This reduces reliance on individual memory and makes the safer action easier by embedding thiamine prompts, electrolyte monitoring, and guidance on nutrition advancement directly into the nutrition support workflow. In this way, data integration and decision support can improve quality of care while still preserving clinical judgment (@dasilva2020aspen; @mccray2005refeeding).
-
-#### Use Predictive Analytics to Identify Risk Earlier
-
-With reliable integrated data in place, predictive analytics can help identify patients at risk before complications develop. Instead of looking at one data point in isolation, a predictive model could combine nutrition support status, phosphate trends, magnesium and potassium values, insulin use, mechanical ventilation status, ICU unit, severity of illness, and recent intake history. Together, these variables could help identify patients at higher risk of electrolyte abnormalities or feeding intolerance.
-
-This moves the organization from retrospective reporting toward proactive care. Rather than waiting for a low phosphate value to appear on the chart, analytics tools could help identify patients whose clinical profiles suggest they need closer monitoring. Research using machine learning in critically ill patients receiving enteral nutrition has shown that EHR-derived clinical, nutritional, medication, and severity data can predict outcomes such as early enteral nutrition failure and mortality risk. This supports the idea that integrated clinical data can become the foundation for earlier intervention and more personalized care (@raphaeli2023machineLearning).
-
-#### Strengthen Data Governance and Evaluate Alert Performance
-
-Integrated data and decision support tools are only useful if they are reliable, clinically meaningful, and continuously evaluated. Poor data quality can lead to inaccurate alerts, missed risks, or clinician distrust. For example, if nutrition orders are not documented consistently, lab values do not pull into the correct workflow, ICU unit information is not linked correctly, or alerts fire too often without clinical relevance, the system may create more burden than value.
-
-Hospitals should regularly review alert performance, override rates, clinician feedback, and patient outcomes to determine whether decision support tools are actually improving care. This is especially important in high-volume environments such as the ICU, where clinicians already manage large amounts of information. Strong governance helps ensure that technology supports better decisions rather than simply adding more data to an already overloaded system (@raghupathi2014big; @sutton2020overview).
-
-Integrated data should be viewed as both a clinical and operational asset. The goal is not simply to connect systems, but to use those connections to identify risk, monitor patients more effectively, intervene earlier, and improve outcomes. The examples in this report demonstrate that even basic data integration can reveal actionable patterns. Enhanced interoperability, targeted decision support, standardized monitoring protocols, predictive analytics, and strong governance position hospitals to move from being data-rich to truly insight-driven.
+{{< include sections/05-recommendations.md >}}
 
 ## References
 
