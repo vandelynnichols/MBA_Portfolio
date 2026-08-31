@@ -15,3 +15,9 @@ Work from MBA 673 — Healthcare Information Systems combines healthcare applica
 An analysis of defensive and offensive data strategy in healthcare, using nutrition-related clinical data to examine early risk identification, data quality, and transitions of care.
 
 [Read the publication →](informatics/analysis-report-01/index.qmd)
+
+### Analysis Report Two: Data, Data Everywhere
+
+An analysis of how connected clinical data can move healthcare from information collection to action, using nutrition support, laboratory, and ICU data to examine interoperability, clinical decision support, and earlier risk identification.
+
+[Read the publication →](informatics/analysis-report-02/index.qmd)
