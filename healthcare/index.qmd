@@ -10,8 +10,8 @@ Selected MBA work focused on healthcare delivery, reimbursement, clinical operat
 
 Work from MBA 673 — Healthcare Information Systems combines healthcare application with SQL, R, clinical data, visualization, and decision support.
 
-### [Explore Healthcare Informatics](informatics/index.qmd)
+### Analysis Report One: What's Your Data Strategy?
 
-Current publication:
+An analysis of defensive and offensive data strategy in healthcare, using nutrition-related clinical data to examine early risk identification, data quality, and transitions of care.
 
-- [Analysis Report One — What's Your Data Strategy](informatics/analysis-report-01/index.qmd)
+[Read the publication →](informatics/analysis-report-01/index.qmd)
