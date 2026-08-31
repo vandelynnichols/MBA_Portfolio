@@ -6,4 +6,12 @@ title: "Healthcare"
 
 Selected MBA work focused on healthcare delivery, reimbursement, clinical operations, informatics, and the relationship between evidence, incentives, and patient outcomes.
 
-Public-facing versions of completed healthcare projects will be added here as they are prepared for publication.
+## Healthcare Informatics
+
+Work from MBA 673 — Healthcare Information Systems combines healthcare application with SQL, R, clinical data, visualization, and decision support.
+
+### [Explore Healthcare Informatics](informatics/index.qmd)
+
+Current publication:
+
+- [Analysis Report One — What's Your Data Strategy](informatics/analysis-report-01/index.qmd)
