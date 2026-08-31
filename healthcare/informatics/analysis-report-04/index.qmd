@@ -1,0 +1,207 @@
+---
+title: "Analysis Report Four — Health Privacy and Data Profiling"
+author: "Vandelyn Nichols"
+description: "An analysis of health privacy, cybersecurity, and data profiling that uses a MIMIC-III hospitalization to show how connected EHR data can reconstruct a detailed clinical story while creating significant responsibilities for privacy, governance, and operational resilience."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+execute:
+  enabled: false
+  echo: false
+---
+
+## Executive Summary
+
+Healthcare organizations have become increasingly dependent on electronic health records, digital platforms, and interconnected clinical systems to deliver care. These tools improve access to information, support clinical decision-making, and allow patient data to follow individuals across the continuum of care. At the same time, the same systems that make healthcare more connected also create new privacy, cybersecurity, operational, and financial risks. As ransomware attacks, third-party data sharing, and large-scale breaches continue to affect healthcare organizations, protecting patient information has become a patient safety issue, not just an information technology responsibility [@adler2017hitech; @rundle2024change; @haggin2023telehealth; @neprash2022trends].
+
+This analysis uses the hospitalization of one MIMIC-III patient to show how much sensitive information can be reconstructed from a single electronic health record. The patient’s record included demographic information, diagnoses, ICU location, mechanical ventilation, medication orders, vasopressor support, nutrition therapy, serial laboratory monitoring, renal decline, and the timing of major clinical events. Individually, these data points may appear to be routine documentation. When connected, they create a detailed digital profile of the patient’s illness, treatment, clinical decline, and outcome. That level of detail is what makes EHR data valuable for clinical care, quality improvement, and research. It is also what makes the information highly sensitive and difficult to protect.
+
+For healthcare administrators, the key takeaway is that EHR data must be both usable and protected. Organizations should build integrated ICU dashboard views for high-risk patients, standardize nutrition support documentation, govern sensitive EHR data for both access and secondary use, strengthen cybersecurity resilience before an attack occurs, and prepare downtime workflows around the data clinicians actually need at the bedside. The goal is not to collect more data for its own sake. It is to organize existing clinical information in ways that improve care while protecting patients from unnecessary exposure, inappropriate access, cyber disruption, and loss of trust.
+
+## Introduction
+
+Healthcare has experienced a rapid digital transformation over the past two decades. The widespread adoption of electronic health records (EHRs), accelerated by the HITECH Act, fundamentally changed how patient information is collected, managed, and shared across healthcare organizations. What was once documented in paper charts is now integrated into a longitudinal digital record that supports communication among care teams, improves access to clinical information, and creates new opportunities to improve the quality, safety, and efficiency of patient care [@adler2017hitech].
+
+As healthcare has become increasingly dependent on digital information, the responsibility for protecting that information has grown just as quickly. Electronic health records now contain an extensive collection of highly sensitive patient information, including demographic characteristics, diagnoses, laboratory results, medications, imaging, procedures, and clinical documentation. Protecting the confidentiality, integrity, and availability of this information has become essential for both effective patient care and public trust in the healthcare system.
+
+The growth of digital health has also expanded the boundaries of where health information is created and stored. Patient information is no longer limited to hospitals and physician offices but is routinely collected through telehealth services, mobile health applications, wearable technologies, and other consumer platforms. While these technologies improve access to care and create new opportunities for patient engagement, they also raise important questions about privacy, informed consent, data sharing, and the extent to which personal health information is protected outside of traditional healthcare organizations [@haggin2023telehealth].
+
+Recent cyberattacks have demonstrated that health information security is no longer solely an information technology concern. Incidents such as the Change Healthcare ransomware attack show how disruptions to digital health infrastructure can interrupt healthcare operations, delay patient care, and expose sensitive protected health information on a national scale [@rundle2024change]. At the same time, ransomware attacks against healthcare organizations continue to increase, reinforcing that cybersecurity has become an essential component of patient safety, organizational resilience, and the reliable delivery of healthcare services [@neprash2022trends].
+
+This creates the foundation for understanding health privacy and data profiling in modern healthcare. Electronic health records provide tremendous clinical value by creating a comprehensive digital profile of each patient, allowing information to follow individuals across the continuum of care. At the same time, the expanding volume, accessibility, and connectivity of health data require healthcare organizations to balance timely access to information with strong privacy protections, effective governance, and resilient cybersecurity practices.
+
+## The Healthcare Context
+
+In practice, healthcare’s digital transformation has created a highly connected clinical environment where patient information moves across EHRs, laboratories, pharmacies, imaging systems, claims platforms, telehealth tools, vendors, and consumer applications. The HITECH Act accelerated the adoption of electronic health records, but adoption alone is no longer the central challenge. Today, the larger issue is how healthcare organizations manage, secure, and use the enormous amount of sensitive information these systems now produce. EHRs have evolved far beyond digital filing cabinets. They serve as the foundation for clinical decision support, population health management, quality reporting, telehealth, artificial intelligence, and increasingly, clinical research [@adler2017hitech; @lee2025advancements].
+
+While this digital change has improved access to information and strengthened communication across care teams, it has also created new challenges. Modern healthcare organizations now rely on thousands of linked devices, applications, vendors, and external partners that continuously exchange protected health information. A single patient encounter may generate information across laboratory systems, pharmacy systems, bedside monitoring devices, imaging platforms, insurance claims, and numerous third-party applications. As health systems become more interconnected, maintaining accurate, accessible, and secure patient information has evolved from an information technology responsibility into an organizational priority that directly influences patient safety, regulatory compliance, operational continuity, and public trust [@lee2025advancements].
+
+These growing dependencies have also made healthcare one of the most attractive targets for cybercriminals. Research examining healthcare data breaches has shown a steady rise in hacking incidents targeting integrated EHR systems, reflecting both the increasing value of healthcare data and the expanding attack surface created by interconnected technologies [@yankson2025rise]. Likewise, ransomware attacks against U.S. healthcare delivery organizations increased substantially between 2016 and 2021, exposing the protected health information of nearly 42 million patients while disrupting clinical operations, delaying care, and creating significant financial and operational burdens for hospitals [@neprash2022trends]. Rather than isolated technology failures, ransomware has become an ongoing enterprise risk that affects nearly every aspect of healthcare delivery.
+
+Unlike many other industries, hospitals cannot simply pause operations while systems are restored. Clinicians depend on uninterrupted access to medication records, laboratory results, imaging, allergies, clinical documentation, and care plans to make timely decisions. When ransomware disrupts access to those systems, the consequences go well beyond data loss. Delayed treatments, postponed procedures, ambulance diversions, workflow disruptions, and communication problems can directly affect patient care. At the same time, healthcare organizations often face interrupted reimbursement, costly system recovery, regulatory investigations, legal liability, and lasting reputational damage. Cybersecurity is now inseparable from patient safety, operational continuity, financial performance, and organizational resilience, rather than remaining solely the responsibility of information technology departments [@shahzadi2025safeguarding].
+
+Recent events illustrate just how interconnected modern healthcare has become. The 2024 Change Healthcare cyberattack disrupted pharmacy claims processing, revenue cycle operations, and insurance transactions nationwide while exposing sensitive information belonging to millions of patients, showing how a single cyberattack can extend far beyond the organization initially targeted [@rundle2024change]. The event affected hospitals, physician practices, pharmacies, insurers, and patients across the country, illustrating how dependent modern healthcare has become on interconnected digital infrastructure.
+
+At the same time, protecting health information has become increasingly complex as healthcare goes beyond the traditional hospital setting. The rapid growth of telehealth platforms, mobile health applications, wearable devices, and other consumer technologies has increased the amount of sensitive health information collected outside organizations subject to HIPAA. Many of these applications operate under different regulatory systems, generating increased scrutiny from the Federal Trade Commission regarding transparency, informed consent, and third-party data sharing [@haggin2023telehealth]. Protecting patient information now requires safeguarding data wherever it is collected, stored, shared, or used—not simply maintaining secure hospital networks.
+
+Successfully protecting healthcare data requires far more than stronger cybersecurity technology alone. Effective protection depends on organizational governance, workforce education, standardized security practices, continuous risk assessment, vendor oversight, tested downtime procedures, and comprehensive incident response planning. Organizations that recover most effectively are typically those that have invested in operational resilience before an attack occurs, recognizing that cybersecurity is as much a leadership and patient safety responsibility as it is a technical one [@shahzadi2025safeguarding].
+
+Healthcare’s digital transformation has created tremendous opportunities to improve care, coordinate services, and generate meaningful clinical insights. At the same time, it has increased the responsibility to protect the enormous volume of sensitive information these systems contain. The challenge facing healthcare organizations is no longer simply collecting data—it is ensuring that data remain accurate, secure, and available when clinicians need them, while preserving the privacy and trust of the patients they serve.
+
+## Data Visualizations
+
+### Clinical Profile
+
+Patient 42135 was a 44-year-old married male with Medicaid coverage who experienced two hospitalizations during the study period. The first admission occurred in July 2127 for failure to thrive and concluded with discharge home after approximately 12 days. Just over two months later, the patient returned through the emergency department with hepatic encephalopathy. This second hospitalization lasted nearly 22 days and ultimately ended in the patient’s death.
+
+Because the second admission represents the patient’s terminal hospitalization, the remaining analysis focuses exclusively on this encounter.
+
+To understand the patient’s overall clinical condition, information from the ADMISSIONS, PATIENTS, DIAGNOSES_ICD, and D_ICD_DIAGNOSES tables was combined to identify every diagnosis associated with the terminal hospitalization. Rather than presenting each ICD-9 diagnosis separately, related conditions were grouped into broader clinical categories to better illustrate the complexity of the patient’s illness.
+
+**Table 1. Clinical Profile Derived from the Patient’s Electronic Health Record**
+
+| Clinical Category | Diagnoses |
+|---|---|
+| Primary Liver Disease | Hepatic encephalopathy; Alcoholic cirrhosis of the liver; Portal vein thrombosis; Esophageal varices |
+| Infection & Sepsis | MRSA septicemia; Severe sepsis; Septic shock; Pneumonia |
+| Renal & Metabolic Complications | Acute kidney failure; Chronic kidney disease; Acidosis; Hypokalemia |
+| Nutrition-Related Conditions | Protein-calorie malnutrition; Cachexia |
+| Gastrointestinal Complications | Gastrointestinal hemorrhage; Gastroduodenal disorder |
+| Additional Clinical Findings | Acute respiratory failure; Convulsions; Hematuria; Candidiasis of the urogenital tract; MRSA carrier status |
+| Relevant Medical History | Alcohol dependence; History of noncompliance with medical treatment |
+
+Table 1 shows that the patient’s hospitalization involved a range of complex conditions extending well beyond hepatic encephalopathy. The patient had advanced alcoholic liver disease complicated by portal vein thrombosis and esophageal varices before developing numerous additional complications throughout the admission. These included MRSA septicemia, severe sepsis, septic shock, pneumonia, acute respiratory failure, progressive kidney failure, metabolic acidosis, protein-calorie malnutrition, cachexia, gastrointestinal hemorrhage, and chronic alcohol dependence. This clinical picture reflects the multiple challenges involved in managing patients with advanced liver disease and multiple comorbidities.
+
+Clinically, the diagnostic profile reflects the complexity of caring for a critically ill patient whose condition involved multiple organ systems simultaneously. It also shows one of the greatest strengths of the electronic health record: diagnoses documented by physicians can be connected with laboratory results, medication orders, procedures, nutrition assessments, and nursing documentation to create a comprehensive longitudinal record rather than a collection of isolated clinical events.
+
+## Chronological Timeline
+
+While the diagnosis profile identifies what conditions were present during the hospitalization, it does not indicate when they developed. Because the diagnosis table itself does not contain timestamps, reconstructing the patient’s clinical course required integrating several time-stamped components of the electronic health record, including ICU admissions, medication administration records, laboratory testing, nutrition support documentation, and procedure events.
+
+Rather than relying on a single table, the timeline was reconstructed by matching the timing of medications, laboratory trends, nutrition support, and ICU interventions, allowing the progression of the hospitalization to be estimated from admission through death.
+
+**Table 2. Chronological Timeline of the Patient’s Hospitalization**
+
+| Hospital Day | Date/Time | Major Event | What it Shows |
+|---|---|---|---|
+| Day 0 | 2127-10-06 21:00 | Admitted through the emergency department with hepatic encephalopathy | Terminal hospitalization begins |
+| Day 0 | 2127-10-06 21:01 | Admitted to MICU | Critical care started almost immediately |
+| Day 0 | 2127-10-06 23:24 | Invasive ventilation started | Early respiratory failure and critical illness |
+| Day 1 | 2127-10-07 | Lactulose started | Treatment initiated for hepatic encephalopathy |
+| Day 1 | 2127-10-07 | Thiamine, folic acid, and multivitamins started | Nutrition-related supplementation initiated early in the admission |
+| Day 2 | 2127-10-08 | Phenylephrine started | Vasopressor support initiated for hemodynamic instability |
+| Day 3 | 2127-10-09 | Vancomycin started | Broad-spectrum antibiotic therapy consistent with severe infection and MRSA septicemia |
+| Day 3 | 2127-10-09 | Norepinephrine started | Escalation of vasopressor support for septic shock |
+| Day 5.5 | 2127-10-12 | Enteral nutrition (NovaSource Renal) initiated | Nutrition support began with enteral feeding |
+| Day 6.9 | 2127-10-13 | Total parenteral nutrition (TPN) with lipids initiated | Transition to parenteral nutrition support |
+| Day 10.8 | 2127-10-17 | TPN without lipids continued | Ongoing nutrition support during prolonged critical illness |
+| Day 18.5 | 2127-10-25 | Creatinine reached 10.2 mg/dL | Progressive deterioration in renal function |
+| Day 19.9 | 2127-10-26 | Final documented TPN administration | Continued dependence on parenteral nutrition late in the hospitalization |
+| Day 21.7 | 2127-10-28 12:50 | Patient died | Terminal hospitalization concluded |
+
+The timeline shows how rapidly the patient’s condition deteriorated after admission. Within minutes of arrival at the emergency department, the patient was admitted to the Medical Intensive Care Unit, and mechanical ventilation was initiated shortly thereafter. Early intervention included lactulose for hepatic encephalopathy, along with thiamine, folic acid, and multivitamin supplementation. Given the patient’s diagnosis of alcoholic cirrhosis and documented history of alcohol dependence, these interventions are consistent with commonly recommended management strategies for patients at risk of alcohol-related nutritional deficiencies and Wernicke’s encephalopathy [@stotts2021beyond; @solorzano2016wernicke].
+
+Over the following days, the complexity and intensity of care continued to increase. Vasopressor therapy with phenylephrine and norepinephrine was initiated to support hemodynamic instability, while vancomycin therapy corresponded with the later diagnosis of MRSA septicemia and severe sepsis. Nutrition support evolved from enteral feeding to total parenteral nutrition as the clinical situation progressed. Serial laboratory assessments tracked a steady decline in renal function, culminating in the patient’s death on hospital day 21.7.
+
+Beyond documenting the patient’s clinical decline, the timeline shows how information recorded across multiple areas of the electronic health record can be linked into a single chronological view of care. Individually, each event represents one clinical action. When connected, they reconstruct the patient’s hospital course from admission through death.
+
+The remaining visualizations expand on this timeline by focusing on three key aspects of the electronic health record: nutrition support, laboratory monitoring, and renal function. These data were assembled by linking multiple MIMIC-III tables using the patient’s hospital admission identifier and plotting the resulting time-stamped data by hospital day.
+
+### Nutrition Support During Hospitalization
+
+To evaluate nutrition management during the patient’s hospitalization, the INPUTEVENTS_MV, D_ITEMS, and ADMISSIONS tables were joined to identify every documented enteral and parenteral nutrition administration. Hospital day was calculated by comparing each nutrition order’s start time with the patient’s admission time, allowing changes in nutrition therapy to be followed chronologically throughout the admission.
+
+![](figure-1-nutrition-support.png){fig-align="center"}
+
+Figure 1 shows how nutrition support changed as the patient’s condition evolved. Enteral nutrition with NovaSource Renal was initiated approximately 5.5 days after admission and gradually increased from low infusion rates to approximately 30 mL per hour. The approach then transitioned to total parenteral nutrition, initially including lipids and later without them, which became the primary nutrition source for the remainder of the hospitalization.
+
+Clinically, this pattern shows the ongoing reassessment required when managing nutrition support in critically ill patients. Enteral nutrition remains the preferred option when the gastrointestinal tract is functional because it supports gut integrity and is associated with fewer complications than parenteral nutrition [@mcclave2016guidelines]. Although the electronic health record cannot definitively identify why the transition occurred, documented diagnoses, including gastrointestinal hemorrhage and gastroduodenal disease, provide reasonable clinical context for why prolonged enteral feeding may no longer have been appropriate.
+
+The figure also shows the level of detail captured within an electronic health record. Every change in nutrition formula, route of administration, infusion rate, and administration time was recorded in the patient’s permanent medical record. These time-stamped records supported clinical decision-making throughout the hospitalization and preserved a complete history of the patient’s nutrition therapy.
+
+### Magnesium and Phosphate Monitoring
+
+Electrolyte monitoring was assessed by integrating the LABEVENTS, D_LABITEMS, and ADMISSIONS tables to capture every magnesium and phosphate measurement recorded during the terminal hospitalization. Reviewing these results by hospital day shows how frequently these electrolytes were monitored as the patient’s condition evolved.
+
+![](figure-2-magnesium-phosphate.png){fig-align="center"}
+
+Figure 2 contains more than sixty individual laboratory measurements collected during this single hospitalization. Phosphate levels were elevated at admission and showed significant variability during the early hospital days, before nutrition support was initiated. The largest decline occurred before enteral or parenteral feeding began, suggesting the change was more likely driven by the underlying critical illness, progressive renal dysfunction, fluid shifts, and ongoing treatment rather than nutrition-related electrolyte changes. As the hospitalization progressed, phosphate concentrations again increased while creatinine continued to rise, supporting the larger pattern of worsening renal dysfunction.
+
+Magnesium concentrations remained comparatively stable but gradually declined throughout the admission despite repeated laboratory monitoring. Frequent assessment of magnesium is common in patients with chronic alcohol use disorder because deficiencies can contribute to neurologic complications and complicate recovery. Early initiation of thiamine, folic acid, and multivitamin supplementation aligns with established best practices for managing alcohol-related nutritional deficiencies [@stotts2021beyond; @solorzano2016wernicke].
+
+Although this visualization displays only two laboratory tests, it shows the frequency with which critically ill patients are monitored throughout their hospitalization. Repeated laboratory measurements allow clinicians to identify trends, evaluate treatment response, and recognize clinical deterioration that would not be apparent from a single laboratory value.
+
+### Creatinine Trend During Hospitalization
+
+To examine changes in renal function, creatinine measurements were extracted from the LABEVENTS table and linked with the patient’s admission record to calculate the hospital day associated with each laboratory value. Displaying these measurements chronologically shows the progression of kidney dysfunction throughout the hospitalization.
+
+![](figure-3-creatinine-trend.png){fig-align="center"}
+
+Figure 3 provides one of the clearest examples of disease progression documented within the electronic health record. Creatinine levels were significantly elevated at admission, measuring approximately 3.3 mg/dL, and continued to rise throughout the hospitalization, ultimately exceeding 10 mg/dL before the patient’s death. These repeated measurements do not represent isolated laboratory abnormalities but instead capture a sustained decline in renal function over nearly three weeks.
+
+When reviewed alongside the diagnosis profile and clinical timeline, the creatinine trend reinforces the patient’s progression from hepatic encephalopathy at admission to multisystem organ failure during the hospitalization. The worsening renal function occurred alongside prolonged mechanical ventilation, vasopressor support, broad-spectrum antibiotic therapy, continuous electrolyte monitoring, and escalating nutrition support, showing how multiple aspects of the patient’s illness advanced simultaneously.
+
+Figure 3 also captures one of the greatest advantages of longitudinal electronic health records. A single creatinine value provides only a snapshot of kidney function at one point in time. A series of time-stamped laboratory measurements reveals disease progression, treatment response, and clinical deterioration in a way that would not be apparent from isolated observations.
+
+Collectively, the tables and visualizations show how information stored across multiple components of the electronic health record can be integrated to reconstruct a patient’s clinical journey from admission through death. Diagnoses define the patient’s clinical profile; time-stamped events establish the sequence of care; nutrition records document therapeutic decision-making; and serial laboratory measurements reveal disease progression over time.
+
+Individually, each data source provides only one perspective. When connected, they create a comprehensive longitudinal record that tells the patient’s story with remarkable accuracy. This ability to integrate information across clinical systems is one of the greatest strengths of modern electronic health records, supporting patient care, quality improvement, and clinical research. The same information that improves healthcare also requires strong privacy protections, cybersecurity safeguards, and responsible stewardship of sensitive patient data [@adler2017hitech; @rundle2024change; @neprash2022trends; @yankson2025rise].
+
+## Recommendations for Industry
+
+The patient analysis shows how much sensitive information can be reconstructed from a single hospital admission. Patient 42135’s record included demographic information, diagnoses, ICU location, mechanical ventilation, medication orders, vasopressor support, nutrition therapy, laboratory trends, and exact timing of major clinical events. That level of detail is clinically valuable, but it also creates significant responsibility for healthcare organizations. Administrators should focus on data strategies that make this information easier to use for patient care while also protecting it from unnecessary exposure, misuse, or disruption.
+
+### Build Integrated ICU Dashboard Views for High-Risk Patients
+
+One of the strongest findings from this analysis is that the patient’s story was not found in a single table or part of the chart. Reconstructing the hospitalization required integrating diagnoses, ICU stays, medications, procedures, nutrition support, and laboratory results from multiple areas of the electronic health record. In practice, this means clinicians may have to navigate several sections of the EHR to understand what happened to a patient and how their condition is changing over time.
+
+Healthcare organizations should develop integrated ICU dashboard views for complex, high-risk patients. Rather than forcing clinicians to piece together the clinical story from separate tabs, the dashboard could include focused views such as a chronological patient timeline, renal and electrolyte trends, nutrition support status, active medications, vasopressor use, antibiotic timing, ventilation status, and key clinical risk indicators including malnutrition, renal dysfunction, alcohol-related disease, or prolonged critical illness.
+
+For a patient like this, the timeline view would display admission, ICU transfer, ventilation initiation, vasopressor start dates, antibiotic therapy, nutrition support changes, and major laboratory trends. A renal and electrolyte view could display rising creatinine, persistent hyperphosphatemia, declining magnesium, potassium trends, and electrolyte changes occurring around nutrition support. A nutrition view could combine current nutrition route, formula, feeding rate, TPN status, thiamine, folic acid, and multivitamin therapy alongside relevant laboratory values and vasopressor use.
+
+This type of dashboard would not require hospitals to collect new information. Instead, it would organize data already present in the EHR into a format that supports faster clinical interpretation. Bringing these data together could improve interdisciplinary communication, reduce missed clinical context during handoffs, support more efficient ICU rounds, and help clinicians recognize deterioration earlier.
+
+### Standardize Nutrition Support Documentation
+
+Making information easier to view is only part of the solution. The underlying documentation must also be standardized so the information can be interpreted consistently across patients and over time.
+
+Hospitals should standardize nutrition support documentation so that enteral nutrition, parenteral nutrition, formula type, rate changes, route, start time, stop time, and the clinical rationale for each significant nutrition intervention are visible in one consistent location. Documentation should clearly explain why formulas were changed, feeding rates were advanced or reduced, enteral nutrition was discontinued, TPN was initiated, or prolonged parenteral nutrition remained medically necessary.
+
+These clinical decisions should be captured in standardized fields rather than scattered across free-text notes, flowsheets, or order records. This would improve data quality by making nutrition information easier for clinicians, quality teams, and researchers to interpret consistently. A standardized nutrition view would be especially useful for ICU patients at high risk for malnutrition, refeeding syndrome, renal dysfunction, gastrointestinal intolerance, or prolonged dependence on parenteral nutrition.
+
+### Govern Sensitive EHR Data for Both Access and Secondary Use
+
+As health systems collect more detailed clinical information, organizations need to balance making data accessible for patient care with protecting patient privacy.
+
+The patient profile in this report included highly sensitive information, including alcohol dependence, history of noncompliance, liver disease, MRSA status, malnutrition, renal failure, and end-of-life care. These details are clinically important, but they are also deeply personal. At the same time, the ability to reconstruct nutrition support, track renal decline, manage medication escalation, and monitor electrolytes demonstrates why EHR data are valuable for quality improvement, operational improvement, and clinical research.
+
+Healthcare organizations should establish governance processes that address both access to patient information and appropriate secondary use. Employees should access only the minimum information necessary to perform their roles, supported by role-based permissions and routine audit trails. When patient data are used for quality improvement, research, or operational analytics, administrators should define who can use the data, what level of de-identification is required, how data extracts are stored, and when additional review or approval is needed. As EHRs continue to support clinical care, research, real-world evidence, and operational improvement, strong governance becomes an essential component of modern healthcare operations [@lee2025advancements].
+
+The goal is not to restrict meaningful analysis. It is to ensure sensitive patient information is available to the right people for the right reasons while protecting it from unnecessary exposure, inappropriate access, or misuse.
+
+### Strengthen Cybersecurity Resilience Through Proactive Risk Management
+
+Protecting patient information requires more than responding effectively after a cyberattack. Healthcare organizations should build resilience before an incident occurs by treating cybersecurity as an enterprise-wide operational responsibility rather than solely an information technology function.
+
+Comprehensive cybersecurity programs should combine routine risk assessments, automated software patch management, network segmentation, secure data backups, disaster recovery planning, regular penetration testing, and appropriate cyber insurance coverage. These technical safeguards should be paired with continuous employee education because phishing attacks and other forms of social engineering remain common entry points for ransomware. Hospitals should also conduct routine disaster recovery exercises and downtime simulations so technical teams and frontline clinicians understand their responsibilities before an actual event occurs [@shahzadi2025safeguarding].
+
+As healthcare organizations continue adopting artificial intelligence, cloud computing, connected medical devices, and other emerging technologies, cybersecurity strategies should evolve alongside them. Emerging technologies such as machine learning, software-defined networking, and blockchain may strengthen threat detection, network security, and data integrity, but they should complement—not replace—strong governance, workforce education, and organizational preparedness [@shahzadi2025safeguarding].
+
+Investing in resilience before an attack occurs reduces operational disruption, protects patient safety, and helps ensure essential clinical information remains available when clinicians and patients need it most.
+
+### Prepare Downtime Workflows Around the Data Clinicians Actually Need
+
+Even the strongest cybersecurity program cannot eliminate every risk. Healthcare organizations should also prepare for the possibility that critical information systems become temporarily unavailable.
+
+This patient’s care depended on continuous access to medication orders, vasopressor history, ventilation status, nutrition support records, serial laboratory results, and evolving clinical documentation. If the EHR had become unavailable during this admission, clinicians would have needed immediate access to the most current version of that information to continue delivering safe care.
+
+The Change Healthcare cyberattack illustrated how disruptions in health information infrastructure can interrupt clinical operations, pharmacy services, revenue cycle activities, and communication across organizations far beyond the initial point of attack [@rundle2024change]. Downtime workflows should be built around the information clinicians actually need during complex ICU care. For patients like this, downtime packets or read-only backup views should include active medications, recent laboratory results, nutrition orders, ventilator status, allergies, code status, vasopressor therapy, recent antibiotic administration, and current care team documentation. These workflows should be tested through realistic clinical simulations rather than existing only as written policies.
+
+Effective incident response depends not only on restoring technology but also on ensuring clinicians can continue to provide safe, uninterrupted care while systems are being recovered [@shahzadi2025safeguarding].
+
+## References
+
+::: {#refs}
+:::
