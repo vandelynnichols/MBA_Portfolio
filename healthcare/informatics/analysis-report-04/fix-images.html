@@ -1,0 +1,15 @@
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+  const replacements = {
+    'figure-1-nutrition-support.png': 'figure-1-nutrition-support.svg',
+    'figure-2-magnesium-phosphate.png': 'figure-2-magnesium-phosphate.svg',
+    'figure-3-creatinine-trend.png': 'figure-3-creatinine-trend.svg'
+  };
+  document.querySelectorAll('img').forEach(function (img) {
+    const src = img.getAttribute('src') || '';
+    Object.keys(replacements).forEach(function (oldName) {
+      if (src.endsWith(oldName)) img.setAttribute('src', src.replace(oldName, replacements[oldName]));
+    });
+  });
+});
+</script>
