@@ -1,0 +1,13 @@
+---
+title: "Healthcare Informatics"
+---
+
+# Healthcare Informatics
+
+Selected work from MBA 673 — Healthcare Information Systems, focused on using clinical data, SQL, R, visualization, and healthcare information systems to support better decisions.
+
+## Analysis Reports
+
+### [Analysis Report One — What's Your Data Strategy](analysis-report-01/index.qmd)
+
+Examines the balance between defensive and offensive data strategy in healthcare, using nutrition-related clinical data to explore early risk identification, data quality, and transitions of care.
