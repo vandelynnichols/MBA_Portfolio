@@ -1,39 +1,97 @@
 ---
 title: "Healthcare"
+subtitle: "Evidence. Data. Operations. Patient Outcomes."
+toc: false
 ---
 
+::: {.portfolio-landing}
+
+<span class="eyebrow">Selected Work / Healthcare</span>
+
+<div class="lead-copy">
 Selected MBA work focused on healthcare delivery, reimbursement, clinical operations, informatics, and the relationship between evidence, incentives, and patient outcomes.
+</div>
+
+::: {.section-intro}
+<span class="eyebrow">MBA 673 · Healthcare Information Systems</span>
 
 ## Healthcare Informatics
 
-Work from MBA 673 — Healthcare Information Systems combines healthcare application with SQL, R, clinical data, visualization, and decision support.
+Work combining healthcare application with SQL, R, clinical data, visualization, and decision support.
+:::
 
-### Analysis Report One: What's Your Data Strategy?
+::: {.report-list}
+
+::: {.report-item}
+<div class="report-number">01</div>
+
+<div>
+<div class="report-meta">Data Strategy · Clinical Nutrition · Risk Identification</div>
+
+### What's Your Data Strategy?
 
 An analysis of defensive and offensive data strategy in healthcare, using nutrition-related clinical data to examine early risk identification, data quality, and transitions of care.
+</div>
 
-[Read the publication →](informatics/analysis-report-01/index.qmd)
+[View Analysis →](informatics/analysis-report-01/index.qmd){.card-link}
+:::
 
-### Analysis Report Two: Data, Data Everywhere
+::: {.report-item}
+<div class="report-number">02</div>
+
+<div>
+<div class="report-meta">Interoperability · Decision Support · ICU Data</div>
+
+### Data, Data Everywhere
 
 An analysis of how connected clinical data can move healthcare from information collection to action, using nutrition support, laboratory, and ICU data to examine interoperability, clinical decision support, and earlier risk identification.
+</div>
 
-[Read the publication →](informatics/analysis-report-02/index.qmd)
+[View Analysis →](informatics/analysis-report-02/index.qmd){.card-link}
+:::
 
-### Analysis Report Three: Information Systems and Healthcare Provider Interactions
+::: {.report-item}
+<div class="report-number">03</div>
+
+<div>
+<div class="report-meta">EHR Design · Workflow · Data Quality</div>
+
+### Information Systems and Healthcare Provider Interactions
 
 An analysis of how EHR design, documentation standards, workflow fit, and data quality affect provider interactions with healthcare information systems, using ICU weight and dietitian documentation to examine usability, trust, and readiness for advanced analytics.
+</div>
 
-[Read the publication →](informatics/analysis-report-03/index.qmd)
+[View Analysis →](informatics/analysis-report-03/index.qmd){.card-link}
+:::
 
-### Analysis Report Four: Health Privacy and Data Profiling
+::: {.report-item}
+<div class="report-number">04</div>
+
+<div>
+<div class="report-meta">Privacy · Cybersecurity · Data Governance</div>
+
+### Health Privacy and Data Profiling
 
 An analysis of health privacy, cybersecurity, and data profiling using a longitudinal MIMIC-III patient record to examine the value and sensitivity of connected EHR data, organizational resilience, and responsible data governance.
+</div>
 
-[Read the publication →](informatics/analysis-report-04/index.qmd)
+[View Analysis →](informatics/analysis-report-04/index.qmd){.card-link}
+:::
 
-### Analysis Report Five: Financial Modeling Using the MIMIC-III Database
+::: {.report-item}
+<div class="report-number">05</div>
+
+<div>
+<div class="report-meta">Financial Modeling · Enteral Nutrition · MIMIC-III</div>
+
+### Financial Modeling Using the MIMIC-III Database
 
 A financial model combining MIMIC-III enteral nutrition utilization, estimated acquisition costs, and published clinical evidence to evaluate the potential clinical and financial value of an early peptide-based enteral nutrition protocol.
+</div>
 
-[Read the publication →](informatics/analysis-report-05/index.qmd)
+[View Analysis →](informatics/analysis-report-05/index.qmd){.card-link}
+:::
+
+:::
+
+:::
