@@ -51,18 +51,7 @@ Although the published evidence primarily evaluates patients at high risk for fe
 
 While much of the published evidence has focused on patients with feeding intolerance or acute gastrointestinal injury, the findings suggest that improving feeding tolerance may also improve operational efficiency by reducing delays in nutrition delivery and utilization of ICU resources. Table 1 summarizes the key clinical findings from the literature and their operational significance.
 
-**Table 1. Published Clinical and Operational Outcomes Associated with Early Peptide-Based Enteral Nutrition**
-
-| Clinical Finding | Published Evidence | Operational Significance |
-|---|---|---|
-| Enteral feeding intolerance | 30.5–65.7% of ICU patients experience feeding intolerance | May delay nutrition delivery, increase nursing workload, and prolong ICU resource utilization. |
-| Acute gastrointestinal injury (AGI) | Approximately 40% of critically ill patients develop AGI | Identifies patients most likely to benefit from specialized enteral formulas. |
-| ICU length of stay | Peptide-based formulas reduced ICU LOS by an average of 2.23 days | Reduces utilization of one of the hospital’s highest-cost resources. |
-| Hospital length of stay | Overall hospital LOS reduced by an average of 1.85 days | Improves patient throughput, bed availability, and operational efficiency. |
-| Time to nutrition goal | Patients reached calorie goals 0.33 days faster | Supports earlier achievement of prescribed nutrition goals. |
-| Cost-effectiveness threshold | Semi-elemental formulas became cost-saving when feeding intolerance was prevented in more than 7% of patients | Suggests higher acquisition costs may be offset through reduced ICU resource utilization. |
-
-![](figure-1.svg){fig-align="center"}
+![](Table_1.png){fig-align="center"}
 
 The available evidence suggests that earlier use of peptide-based enteral nutrition has the potential to improve feeding tolerance, accelerate achievement of nutrition goals, and reduce ICU resource utilization during the early phase of critical illness. Because ICU care represents one of the hospital's most expensive resources, even modest improvements in feeding tolerance could translate into meaningful financial value. The following financial analysis combines MIMIC-III nutrition support data with estimated hospital acquisition costs to evaluate whether an early peptide-based enteral nutrition protocol could offset higher formula costs through reduced ICU resource utilization.
 
@@ -78,39 +67,27 @@ To evaluate this opportunity, a financial model was developed using actual enter
 
 Analysis of the MIMIC-III cohort demonstrated that enteral nutrition was delivered primarily through standard polymeric formulas, including Fibersource HN, Replete with Fiber, Nutren products, and NovaSource Renal. Estimated hospital acquisition costs were assigned to each formula using modeled contract pricing to establish the baseline cost of the current formulary before comparing it with the proposed peptide-based protocol.
 
+![](Figure_1.png){fig-align="center"}
+
 Table 2 summarizes the estimated enteral nutrition utilization and acquisition costs under the current formulary compared with the proposed peptide-based protocol. Across the cohort, transitioning ICU patients receiving standard polymeric formulas to Impact Peptide 1.5 increased projected formula expenditures from $5,958.32 to $9,415.53, representing an incremental investment of approximately $3,457.21.
+
+![](Table_2.png){fig-align="center"}
 
 Although the proposed protocol increases formula acquisition costs, the additional investment represents only a small portion of the overall expense associated with caring for a critically ill patient. Figure 2 illustrates that the increase in nutrition spending is relatively modest when compared with the total cost of ICU care, emphasizing the importance of evaluating enteral nutrition within the broader context of total cost of care rather than acquisition cost alone.
 
-**Table 2. Current Formula Cost Compared with Proposed Peptide-Based Protocol**
-
-| Measure | Current Formulary | Proposed Peptide Protocol |
-|---|---:|---:|
-| Total Enteral Formula Volume | 264,481 mL | 264,481 mL |
-| Estimated Formula Acquisition Cost | $5,958.32 | $9,415.53 |
-| Additional Formula Investment | — | $3,457.21 |
-
-![](figure-2.svg){fig-align="center"}
+![](Figure_2.png){fig-align="center"}
 
 ### Modeling the Financial Impact
 
 Formula acquisition costs represent only a small fraction of the total expense associated with caring for a critically ill patient. To evaluate whether higher formula costs could be offset through reduced ICU utilization, three financial scenarios were modeled using an estimated ICU cost of $7,425 per day. These scenarios range from a conservative reduction in ICU length of stay to the 2.23-day reduction reported in the published literature evaluating peptide-based enteral nutrition. Table 3 summarizes the projected ICU cost avoidance and estimated net financial impact for each scenario.
 
-**Table 3. Estimated Financial Impact by ICU Length-of-Stay Scenario**
-
-| Scenario | ICU LOS Reduction | ICU Cost Avoided | Additional Formula Cost | Net Savings |
-|---|---:|---:|---:|---:|
-| Conservative | 0.05 days | $8,538.75 | $3,457.21 | $5,081.54 |
-| Moderate | 0.50 days | $85,387.50 | $3,457.21 | $81,930.29 |
-| Evidence-Based | 2.23 days | $380,828.25 | $3,457.21 | $377,371.04 |
-
-*ICU cost avoidance estimated at $170,775 per ICU day.*
+![](Table_3.png){fig-align="center"}
 
 Across all modeled scenarios, the estimated reduction in ICU costs exceeded the additional investment required to implement the peptide-based nutrition protocol. Even under the most conservative assumptions, the projected savings suggest that relatively small improvements in ICU length of stay may offset the increased acquisition cost of specialized enteral formulas.
 
 This relationship is illustrated in Figure 3, which compares the additional investment required to implement the peptide-based protocol to the estimated ICU cost savings for each modeled scenario.
 
-![](figure-3.svg){fig-align="center"}
+![](Figure_3.png){fig-align="center"}
 
 ### Return on Investment
 
@@ -118,7 +95,7 @@ Viewed through a value-based purchasing framework, these findings suggest that e
 
 Figure 4 summarizes the estimated net financial savings for each modeled scenario and illustrates that even modest reductions in ICU length of stay can yield a positive return on investment after accounting for increased formula acquisition costs.
 
-![](figure-4.svg){fig-align="center"}
+![](Figure_4.png){fig-align="center"}
 
 ## Strategic Recommendation
 
