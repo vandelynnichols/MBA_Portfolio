@@ -1,33 +1,68 @@
 ---
-title: "MBA Portfolio"
-subtitle: "Applied work in leadership, strategy, healthcare, finance, and analytics"
+title: "Vandelyn Nichols"
+subtitle: "MBA Portfolio · Leadership · Strategy · Healthcare · Analytics"
 toc: false
 ---
 
-This portfolio highlights selected work from my MBA coursework, with an emphasis on practical analysis, leadership, strategy, healthcare, and data-informed decision-making.
+::: {.portfolio-landing}
 
-The pieces included here began as academic assignments but are presented as professional work samples. Each publication focuses on the underlying business question, the analysis used to address it, and the practical implications of the work.
+<span class="eyebrow">Selected MBA Work / Professional Portfolio</span>
+
+<div class="lead-copy">
+Applied work connecting evidence, strategy, leadership, healthcare, and data-informed decision-making to real organizational questions.
+</div>
+
+The work collected here began as MBA coursework and is presented as a curated set of professional work samples. Each publication focuses on the underlying question, the analysis used to address it, and the practical implications of the recommendation.
+
+::: {.section-intro}
+<span class="eyebrow">Explore the Portfolio</span>
 
 ## Featured Areas
+:::
+
+::: {.portfolio-grid}
+
+::: {.portfolio-card .camel}
+<div class="card-number">01 / LEADERSHIP</div>
+<div class="card-kicker">People · Culture · Accountability</div>
 
 ### Leadership
 
-Leadership work focused on how organizations develop people, evaluate leadership effectiveness, balance results with culture, and translate leadership principles into observable behavior.
+How organizations develop people, evaluate leadership effectiveness, communicate expectations, and balance results with the way those results are achieved.
 
-[Explore Leadership →](leadership/index.qmd)
+[Explore Leadership →](leadership/index.qmd){.card-link}
+:::
+
+::: {.portfolio-card .ink}
+<div class="card-number">02 / GLOBAL STRATEGY</div>
+<div class="card-kicker">Competition · Performance · Growth</div>
 
 ### Global Strategy
 
-Strategic analysis of companies, industries, competitive positioning, financial performance, and long-term business advantage.
+Strategic analysis of companies, industries, competitive positioning, financial performance, leadership execution, and long-term business advantage.
 
-[Explore Global Strategy →](global-strategy/index.qmd)
+[Explore Global Strategy →](global-strategy/index.qmd){.card-link}
+:::
+
+::: {.portfolio-card .teal}
+<div class="card-number">03 / HEALTHCARE</div>
+<div class="card-kicker">Evidence · Data · Operations</div>
 
 ### Healthcare
 
-Healthcare-focused work examining delivery systems, reimbursement, clinical operations, informatics, and opportunities to improve outcomes and efficiency.
+Healthcare delivery, reimbursement, clinical operations, informatics, and opportunities to improve outcomes, efficiency, and patient-centered decision-making.
 
-[Explore Healthcare →](healthcare/index.qmd)
+[Explore Healthcare →](healthcare/index.qmd){.card-link}
+:::
 
-## About This Portfolio
+:::
 
-This site is a curated collection rather than a complete archive of coursework. Working drafts, class notes, course administration, and other internal materials remain outside the public portfolio.
+::: {.highlight-band}
+<span class="eyebrow">Portfolio Approach</span>
+
+## Academic work, presented for practical use
+
+This is a curated portfolio rather than a complete archive of coursework. Working drafts, class notes, course administration, and other internal materials remain outside the public site so the focus stays on finished analysis and professional communication.
+:::
+
+:::
