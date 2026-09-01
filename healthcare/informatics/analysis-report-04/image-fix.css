@@ -1,0 +1,17 @@
+img[src$="figure-1-nutrition-support.png"] {
+  content: url("figure-1-nutrition-support.svg");
+  width: 100%;
+  height: auto;
+}
+
+img[src$="figure-2-magnesium-phosphate.png"] {
+  content: url("figure-2-magnesium-phosphate.svg");
+  width: 100%;
+  height: auto;
+}
+
+img[src$="figure-3-creatinine-trend.png"] {
+  content: url("figure-3-creatinine-trend.svg");
+  width: 100%;
+  height: auto;
+}
