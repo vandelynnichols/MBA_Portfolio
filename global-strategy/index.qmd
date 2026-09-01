@@ -1,37 +1,95 @@
 ---
 title: "Global Strategy"
+subtitle: "Competitive advantage. Financial performance. Strategic tradeoffs."
+toc: false
 ---
 
-Selected work analyzing competitive advantage, financial performance, strategic positioning, leadership, and the tradeoffs organizations face as they grow and adapt.
+::: {.portfolio-landing}
 
-## Featured Work
+<span class="eyebrow">Selected Work / Global Strategy</span>
+
+<div class="lead-copy">
+Selected work analyzing competitive advantage, financial performance, strategic positioning, leadership, and the tradeoffs organizations face as they grow and adapt.
+</div>
+
+::: {.section-intro}
+<span class="eyebrow">Featured Work</span>
+
+## Strategy Analyses
+:::
+
+::: {.report-list}
+
+::: {.report-item}
+<div class="report-number">01</div>
+
+<div>
+<div class="report-meta">Retail · Value Proposition · Cost Leadership</div>
 
 ### Costco: Value Proposition, Target Customers, and Cost Leadership in Practice
 
 A strategic analysis of how Costco's membership model, customer selection, and cost leadership strategy reinforce one another to create a durable competitive advantage.
+</div>
 
-[Read the publication →](costco/index.qmd)
+[View Analysis →](costco/index.qmd){.card-link}
+:::
+
+::: {.report-item}
+<div class="report-number">02</div>
+
+<div>
+<div class="report-meta">Global Expansion · Adaptation · Consumer Strategy</div>
 
 ### IKEA in China: Adapting a Global Model
 
 A global strategy analysis of how IKEA adapted its standardized model to Chinese consumer expectations, competitive pressures, and changing market conditions.
+</div>
 
-[Read the publication →](ikea-in-china/index.qmd)
+[View Analysis →](ikea-in-china/index.qmd){.card-link}
+:::
 
-### Ron Ventura at Mitchell Memorial Hospital: Clinical Excellence, Leadership Accountability, and Contract Renewal
+::: {.report-item}
+<div class="report-number">03</div>
+
+<div>
+<div class="report-meta">Healthcare · Leadership · Strategic Value</div>
+
+### Ron Ventura at Mitchell Memorial Hospital
 
 A strategy and leadership analysis of how a hospital should balance exceptional clinical performance, organizational culture, physician development, financial value, and accountability when deciding whether to renew a high-performing physician leader.
+</div>
 
-[Read the publication →](ron-ventura/index.qmd)
+[View Analysis →](ron-ventura/index.qmd){.card-link}
+:::
 
-### Starbucks vs. The Boston Beer Company: A Financial and Strategic Analysis
+::: {.report-item}
+<div class="report-number">04</div>
+
+<div>
+<div class="report-meta">Financial Analysis · Competition · Outlook</div>
+
+### Starbucks vs. The Boston Beer Company
 
 A comparative analysis of Starbucks and The Boston Beer Company across financial performance, competitive position, leadership execution, and strategic outlook from FY2023 through FY2025.
+</div>
 
-[Read the publication →](starbucks-vs-boston-beer/index.qmd)
+[View Analysis →](starbucks-vs-boston-beer/index.qmd){.card-link}
+:::
 
-### Shopify’s Strategic Pivot: Preserving Today’s Advantage While Building Tomorrow’s
+::: {.report-item}
+<div class="report-number">05</div>
+
+<div>
+<div class="report-meta">E-Commerce · AI · Strategic Pivot</div>
+
+### Shopify’s Strategic Pivot
 
 A strategic analysis of Shopify’s return to an asset-light commerce platform, the rise of AI-driven shopping, and the challenge of balancing enterprise scale, small-business trust, and financial-services risk.
+</div>
 
-[Read the publication →](shopify-strategic-pivot/index.qmd)
+[View Analysis →](shopify-strategic-pivot/index.qmd){.card-link}
+:::
+
+:::
+
+:::
