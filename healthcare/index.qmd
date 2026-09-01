@@ -2,8 +2,6 @@
 title: "Healthcare"
 ---
 
-# Healthcare
-
 Selected MBA work focused on healthcare delivery, reimbursement, clinical operations, informatics, and the relationship between evidence, incentives, and patient outcomes.
 
 ## Healthcare Informatics
