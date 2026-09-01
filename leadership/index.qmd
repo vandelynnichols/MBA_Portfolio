@@ -1,31 +1,81 @@
 ---
 title: "Leadership"
+subtitle: "Develop people. Build clarity. Hold standards."
+toc: false
 ---
 
-Selected MBA leadership work examining how leaders develop people, communicate expectations, build culture, and remain accountable for both results and the way those results are achieved.
+::: {.portfolio-landing}
 
-## Featured Work
+<span class="eyebrow">Selected Work / Leadership</span>
+
+<div class="lead-copy">
+Selected MBA leadership work examining how leaders develop people, communicate expectations, build culture, and remain accountable for both results and the way those results are achieved.
+</div>
+
+::: {.section-intro}
+<span class="eyebrow">Featured Work</span>
+
+## Leadership Analyses
+:::
+
+::: {.report-list}
+
+::: {.report-item}
+<div class="report-number">01</div>
+
+<div>
+<div class="report-meta">Leadership · Development · Accountability</div>
 
 ### Effective Leadership Still Comes Back to People
 
 An exploration of commonly valued leadership traits, generational differences, individualized development, clarity, and accountability, grounded in both course research and practical leadership experience.
+</div>
 
-[Read the publication →](what-effective-leadership-looks-like/index.qmd)
+[View Analysis →](what-effective-leadership-looks-like/index.qmd){.card-link}
+:::
+
+::: {.report-item}
+<div class="report-number">02</div>
+
+<div>
+<div class="report-meta">Leadership · Incentives · Culture</div>
 
 ### The Leadership Gap: What Organizations Say vs. What They Reward
 
 An analysis of Jeffrey Pfeffer's critique of the leadership industry using NVIDIA and Eli Lilly to examine the gap between ideal leadership traits and the behaviors organizations actually reward.
+</div>
 
-[Read the publication →](the-leadership-gap/index.qmd)
+[View Analysis →](the-leadership-gap/index.qmd){.card-link}
+:::
+
+::: {.report-item}
+<div class="report-number">03</div>
+
+<div>
+<div class="report-meta">Leadership · Performance · Organizational Risk</div>
 
 ### When Breaking the Leadership Rules Works
 
 An analysis of when unconventional leadership behaviors can serve a legitimate purpose, why genuinely harmful leaders may still be rewarded, and the organizational conditions that allow it to happen.
+</div>
 
-[Read the publication →](when-breaking-the-leadership-rules-works/index.qmd)
+[View Analysis →](when-breaking-the-leadership-rules-works/index.qmd){.card-link}
+:::
+
+::: {.report-item}
+<div class="report-number">04</div>
+
+<div>
+<div class="report-meta">Leadership · Feedback · Development</div>
 
 ### Reimagining Leadership: Leaders Are Not Finished Products
 
 A discussion of Jeffrey Pfeffer's critique of the leadership industry and an argument for treating leadership as an ongoing process of individualized development, honest feedback, careful selection, behavioral evaluation, and accountability.
+</div>
 
-[Read the publication →](reimagining-leadership/index.qmd)
+[View Analysis →](reimagining-leadership/index.qmd){.card-link}
+:::
+
+:::
+
+:::
