@@ -90,6 +90,20 @@ An application of Johnson’s six shadows of unethical leadership to the Wells F
 [View Analysis →](the-dark-side-of-leadership/index.qmd){.card-link}
 :::
 
+::: {.report-item}
+<div class="report-number">06</div>
+
+<div>
+<div class="report-meta">Leadership · Ethics · Board Accountability</div>
+
+### Why Ethics-Based CEO Dismissals Are Rising
+
+An analysis of why ethics-based CEO dismissals are becoming more common, which organizations face greater ethical risk, and how institutional investors can increase pressure on boards to hold senior leaders accountable.
+</div>
+
+[View Analysis →](ethics-based-ceo-dismissals/index.qmd){.card-link}
+:::
+
 :::
 
 :::
