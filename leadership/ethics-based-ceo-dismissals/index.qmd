@@ -1,0 +1,35 @@
+---
+title: "Why Ethics-Based CEO Dismissals Are Rising"
+author: "Vandelyn Nichols"
+description: "An MBA leadership analysis of why ethics-based CEO dismissals are increasing, which organizations face greater risk, and how institutional investors can influence board accountability and leadership change."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Discussion Topic 2
+
+### Prompt
+
+> According to the HBR article “CEOs Are Getting Fired for Ethical Lapses More Than They Used To,” what are the reasons for the rise of ethics-based dismissals and the factors that indicate a company might be at greater risk for ethical lapses? Conduct outside research on this topic and identify and discuss at least one additional reason for the rise of ethics-based dismissals and/or one additional risk factor not discussed in the article, or provide additional supporting examples of the reasons or risk factors discussed in the article.
+
+## Response
+
+A growing number of CEOs are being dismissed over ethical issues, but this does not mean leaders are suddenly behaving worse. Instead, misconduct has become harder to hide, and boards are under more pressure to act when problems surface. @rivera2017 found that ethical lapses accounted for 3.9% of forced CEO turnovers among the world’s 2,500 largest public companies from 2007 through 2011, increasing to 5.3% from 2012 through 2016.
+
+Several changes help explain the increase. Public tolerance for corporate misconduct has declined, and regulators and boards are more willing to impose consequences when it occurs. Global expansion and longer supply chains also create more opportunities for misconduct to occur outside a company’s direct view, especially when firms rely on partners operating in countries with weaker governance or higher corruption risk. At the same time, digital records, whistleblowers, and hackers make wrongdoing easier to uncover, while social media and nonstop news cycles can make it public almost immediately. Together, these changes make ethical problems harder to hide and increase the pressure on boards to respond [@rivera2017].
+
+@rivera2017 also identified three characteristics associated with greater risk for ethical lapses: company size, CEO tenure, and whether the CEO also serves as board chair. Each can make oversight more difficult for a different reason. Among the largest companies, 7.8% of CEO departures were tied to ethical issues, compared with about 3% among smaller firms. Larger companies have more employees, markets, transactions, and outside relationships to oversee, creating more places for misconduct to occur or go unnoticed. Longer-serving CEOs can accumulate greater influence and may face less scrutiny after years of successful performance. Combining the CEO and board-chair roles creates a different problem: the person being monitored also leads the board responsible for that oversight. None of these factors causes unethical behavior, but each can make effective oversight more difficult.
+
+Beyond the reasons identified by @rivera2017, the growing influence of institutional investors may also explain the rise in ethics-based CEO dismissals. Large shareholders can put pressure directly on the board by challenging directors, opposing their reelection, selling shares, or pushing for leadership changes. @dimson2015 examined more than 2,000 cases in which institutional investors pushed companies to address environmental, social, or governance concerns. When those efforts were successful, the companies implemented the changes investors had requested, demonstrating that large shareholders can directly influence corporate decisions.
+
+Investor pressure played a direct role in the leadership changes at Rio Tinto. After the company destroyed the culturally significant Juukan Gorge rock shelters in Australia, the board initially responded by reducing executive bonuses. Major investors argued that the response did not go far enough and continued pushing the board for greater accountability. The pressure continued, and the CEO and two other senior executives ultimately stepped down [@reuters2020].
+
+Boards are quicker to remove CEOs over ethical issues because misconduct is more likely to come to light and pressure from regulators, the public, and investors is harder to ignore. But removing the CEO does not fix the failures that allowed the misconduct to continue.
+
+## References
+
+::: {#refs}
+:::
