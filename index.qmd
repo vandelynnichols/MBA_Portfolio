@@ -60,7 +60,7 @@ Healthcare decisions do not happen on clinical evidence alone. This work looks a
 ::: {.highlight-band}
 <span class="eyebrow">How I Approach the Work</span>
 
-## Start with what is actually happening.
+## Good decisions start with better questions.
 
 I tend to ask a lot of questions before deciding what the answer should be. What does the data tell us? What are we missing? Who is closest to the problem? What is the organization rewarding? And does the proposed solution actually work for the people expected to use it?
 
