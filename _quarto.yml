@@ -4,13 +4,13 @@ project:
 website:
   title: "Vandelyn Nichols"
   navbar:
-    left:
+    right:
       - href: index.qmd
         text: Home
       - href: leadership/index.qmd
         text: Leadership
       - href: global-strategy/index.qmd
-        text: Global Strategy
+        text: Strategy
       - href: healthcare/index.qmd
         text: Healthcare
       - href: about.qmd
