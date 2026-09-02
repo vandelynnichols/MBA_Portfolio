@@ -1,13 +1,12 @@
 ---
 title: "Vandelyn Nichols"
 subtitle: "Healthcare · Business · Leadership · Strategy"
-description: "Vandelyn Nichols is a healthcare and business professional with experience in clinical practice, healthcare sales, entrepreneurship, leadership, strategy, and analytics. Explore selected MBA and professional work in healthcare, business strategy, and leadership."
+pagetitle: "Vandelyn Nichols | Healthcare, Business Strategy & Leadership"
+description-meta: "Vandelyn Nichols is a healthcare and business professional with experience in clinical practice, healthcare sales, entrepreneurship, leadership, strategy, and analytics. Explore selected MBA and professional work in healthcare, business strategy, and leadership."
 toc: false
 ---
 
 ::: {.portfolio-landing}
-
-<span class="eyebrow">Healthcare · Business · Leadership · Strategy</span>
 
 <div class="lead-copy">
 My career has taken me through very different sides of healthcare and business—from clinical practice and healthcare sales to building and leading my own business. That experience has taught me that a good decision has to work from more than one perspective: the data has to support it, it has to make sense for the business, and it has to work for the people involved.
