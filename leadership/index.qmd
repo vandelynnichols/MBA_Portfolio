@@ -76,6 +76,20 @@ A discussion of Jeffrey Pfeffer's critique of the leadership industry and an arg
 [View Analysis →](reimagining-leadership/index.qmd){.card-link}
 :::
 
+::: {.report-item}
+<div class="report-number">05</div>
+
+<div>
+<div class="report-meta">Leadership · Ethics · Governance</div>
+
+### The Dark Side of Leadership: Lessons from Wells Fargo
+
+An application of Johnson’s six shadows of unethical leadership to the Wells Fargo sales-practices scandal, with recommendations for redesigning incentives, strengthening board oversight, improving information flow, and restoring customer trust.
+</div>
+
+[View Analysis →](the-dark-side-of-leadership/index.qmd){.card-link}
+:::
+
 :::
 
 :::
