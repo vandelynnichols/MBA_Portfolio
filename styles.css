@@ -30,17 +30,36 @@ a:hover { color: var(--camel); }
   background: rgba(255, 253, 249, 0.97) !important;
   border-bottom: 1px solid var(--line);
   box-shadow: none;
+  padding-top: 0.7rem;
+  padding-bottom: 0.7rem;
+}
+
+.navbar .container-fluid,
+.navbar .container-xxl {
+  max-width: 1320px;
+  margin: 0 auto;
+  padding-left: 1.4rem;
+  padding-right: 1.4rem;
 }
 
 .navbar-brand {
   color: var(--ink) !important;
-  font-weight: 650;
-  letter-spacing: 0.01em;
+  font-weight: 700;
+  font-size: 1.18rem;
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.navbar-nav {
+  gap: 0.4rem;
 }
 
 .navbar-nav .nav-link {
   color: var(--ink-soft) !important;
-  font-weight: 550;
+  font-weight: 500;
+  font-size: 0.94rem;
+  padding-left: 0.65rem !important;
+  padding-right: 0.65rem !important;
 }
 
 .navbar-nav .nav-link.active,
