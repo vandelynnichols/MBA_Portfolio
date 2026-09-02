@@ -1,18 +1,18 @@
 ---
 title: "Vandelyn Nichols"
-subtitle: "MBA Portfolio · Leadership · Strategy · Healthcare · Analytics"
+subtitle: "Healthcare · Business · Leadership · Strategy"
 toc: false
 ---
 
 ::: {.portfolio-landing}
 
-<span class="eyebrow">Selected MBA Work / Professional Portfolio</span>
+<span class="eyebrow">Healthcare · Business · Leadership · Strategy</span>
 
 <div class="lead-copy">
-Applied work connecting evidence, strategy, leadership, healthcare, and data-informed decision-making to real organizational questions.
+My career has taken me through very different sides of healthcare and business—from clinical practice and healthcare sales to building and leading my own business. That experience has taught me to look at problems from more than one angle: what the data says, what makes sense for the business, and how the decision affects the people involved.
 </div>
 
-The work collected here began as MBA coursework and is presented as a curated set of professional work samples. Each publication focuses on the underlying question, the analysis used to address it, and the practical implications of the recommendation.
+This portfolio brings that experience together with my MBA work in leadership, strategy, healthcare, finance, and analytics.
 
 ::: {.section-intro}
 <span class="eyebrow">Explore the Portfolio</span>
@@ -28,29 +28,29 @@ The work collected here began as MBA coursework and is presented as a curated se
 
 ### Leadership
 
-How organizations develop people, evaluate leadership effectiveness, communicate expectations, and balance results with the way those results are achieved.
+People are different. Standards should not be. This work looks at how leaders develop people, create clarity, build culture, and remain accountable for both results and how those results are achieved.
 
 [Explore Leadership →](leadership/index.qmd){.card-link}
 :::
 
 ::: {.portfolio-card .ink}
 <div class="card-number">02 / GLOBAL STRATEGY</div>
-<div class="card-kicker">Competition · Performance · Growth</div>
+<div class="card-kicker">Competition · Growth · Decision-Making</div>
 
 ### Global Strategy
 
-Strategic analysis of companies, industries, competitive positioning, financial performance, leadership execution, and long-term business advantage.
+Why is a company winning? Where is the growth coming from? What could put that advantage at risk? This work looks at the decisions behind performance and where a company goes next.
 
 [Explore Global Strategy →](global-strategy/index.qmd){.card-link}
 :::
 
 ::: {.portfolio-card .teal}
 <div class="card-number">03 / HEALTHCARE</div>
-<div class="card-kicker">Evidence · Data · Operations</div>
+<div class="card-kicker">Patients · Systems · Business</div>
 
 ### Healthcare
 
-Healthcare delivery, reimbursement, clinical operations, informatics, and opportunities to improve outcomes, efficiency, and patient-centered decision-making.
+Healthcare decisions do not happen on clinical evidence alone. This work looks at how reimbursement, staffing, operations, access, data, and the realities of running a healthcare system can influence what ultimately happens to the patient.
 
 [Explore Healthcare →](healthcare/index.qmd){.card-link}
 :::
@@ -58,11 +58,13 @@ Healthcare delivery, reimbursement, clinical operations, informatics, and opport
 :::
 
 ::: {.highlight-band}
-<span class="eyebrow">Portfolio Approach</span>
+<span class="eyebrow">How I Approach the Work</span>
 
-## Academic work, presented for practical use
+## Start with what is actually happening.
 
-This is a curated portfolio rather than a complete archive of coursework. Working drafts, class notes, course administration, and other internal materials remain outside the public site so the focus stays on finished analysis and professional communication.
+I tend to ask a lot of questions before deciding what the answer should be. What does the data tell us? What are we missing? Who is closest to the problem? What is the organization rewarding? And does the proposed solution actually work for the people expected to use it?
+
+The goal is not analysis for the sake of analysis. It is making a better decision.
 :::
 
 :::
