@@ -1,6 +1,7 @@
 ---
 title: "Vandelyn Nichols"
 subtitle: "Healthcare · Business · Leadership · Strategy"
+description: "Vandelyn Nichols is a healthcare and business professional with experience in clinical practice, healthcare sales, entrepreneurship, leadership, strategy, and analytics. Explore selected MBA and professional work in healthcare, business strategy, and leadership."
 toc: false
 ---
 
@@ -9,7 +10,7 @@ toc: false
 <span class="eyebrow">Healthcare · Business · Leadership · Strategy</span>
 
 <div class="lead-copy">
-My career has taken me through very different sides of healthcare and business—from clinical practice and healthcare sales to building and leading my own business. That experience has taught me to look at problems from more than one angle: what the data says, what makes sense for the business, and how the decision affects the people involved.
+My career has taken me through very different sides of healthcare and business—from clinical practice and healthcare sales to building and leading my own business. That experience has taught me that a good decision has to work from more than one perspective: the data has to support it, it has to make sense for the business, and it has to work for the people involved.
 </div>
 
 This portfolio brings that experience together with my MBA work in leadership, strategy, healthcare, finance, and analytics.
@@ -39,7 +40,7 @@ People are different. Standards should not be. This work looks at how leaders de
 
 ### Global Strategy
 
-Why is a company winning? Where is the growth coming from? What could put that advantage at risk? This work looks at the decisions behind performance and where a company goes next.
+The numbers tell you how a company is performing. Strategy helps explain why—and whether it can last. This work looks at growth, competitive advantage, risk, and the decisions shaping where a company goes next.
 
 [Explore Global Strategy →](global-strategy/index.qmd){.card-link}
 :::
