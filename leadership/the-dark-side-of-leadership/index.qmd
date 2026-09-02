@@ -1,0 +1,35 @@
+---
+title: "The Dark Side of Leadership: Lessons from Wells Fargo"
+author: "Vandelyn Nichols"
+description: "An MBA leadership analysis applying Johnson’s six shadows of unethical leadership to the Wells Fargo sales-practices scandal and examining how governance, incentives, information flow, and accountability can move an organization back toward ethical leadership."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Discussion Topic 1
+
+### Prompt
+
+> What is the dark side of leadership? Why does Johnson use the metaphor of light and shadow? What are the six shadows of unethical leadership? How do they apply to the Wells Fargo case? If you were a remaining board director for Wells Fargo, what would you propose to get the firm back on track? Draw upon the assigned readings and outside research to support your arguments.
+
+## Response
+
+“Leaders have the power to illuminate the lives of followers or to cover them in darkness” [@johnson2024, p. 3]. Johnson uses the sharp contrast of light and shadow to distinguish ethical from unethical leadership. The dark side emerges when leaders misuse their power or fail to take responsibility for the people and organizations they lead. @johnson2024 identifies six shadows of unethical leadership: power, privilege, mismanaged information, inconsistency, misplaced or broken loyalty, and irresponsibility. Wells Fargo serves as an example of what can happen when a company fails to pay attention to the shadows and overlooks destructive behaviors.
+
+Wells Fargo’s cross-selling strategy was not inherently unethical. Selling customers additional products they actually needed could benefit both the customer and the bank. The issue was not the strategy itself, but the way it was implemented. Tying aggressive sales targets to pay, promotions, and job security created intense pressure on employees. Over time, hitting the numbers took priority over serving customers ethically. The shadow of power is clear here because the pressure did not come from the sales goals alone; it came from what employees stood to lose if they did not meet them [@johnson2024].
+
+As complaints, terminations, and sales violations continued, it became harder to argue that the problem at Wells Fargo was a few bad employees. Yet the board continued to hear that these issues were isolated and not part of a larger pattern tied to the sales system. For example, while some leaders believed about 2,500 employees had been fired for sales-practice violations in 2013 and 2014, the board’s Risk Committee was only told about 230 [@smithreiners2017]. This is where mismanaged information and irresponsibility overlap. The board was not getting the full picture, but repeated problems should also have pushed directors to ask more questions. Firing thousands of employees for similar violations should have prompted a closer look at what was causing the misconduct in the first place.
+
+Privilege allowed senior executives to continue benefiting from strong sales results while customers and lower-level employees absorbed the consequences. Misplaced loyalty was evident as senior leaders continued to defend the Community Bank executive and the cross-selling strategy despite growing evidence of problems. At the same time, Wells Fargo claimed to put customers first while rewarding a system that encouraged employees to open products customers had not requested. That inconsistency matters because employees learn what a company values by what it rewards and tolerates, not simply by what it says. @joly2022 makes a similar point: culture has to reinforce a company’s strategy and purpose for either to work as intended.
+
+As a remaining director, my first step would be to remove any leader who intentionally concealed information or directed misconduct and independently investigate those who knew about the pattern but failed to act. I would also pause individual sales goals while the bank redesigned its performance system. Sales goals could return later, but only as part of a balanced approach that considers customer consent, product use, satisfaction, retention, complaints, and ethical behavior. **The problem was not that sales mattered; it was that sales mattered more than everything else.**
+
+I would also separate the CEO and board chair roles to strengthen board independence [@jun2026] and ensure that risk, ethics, compliance, and internal audit teams have direct access to independent board committees. Unfiltered reporting on complaints, terminations, retaliation, and customer harm should be required. The board should include members with banking risk, consumer protection, and organizational culture expertise while maintaining a broader mix of professional backgrounds. Most importantly, Wells Fargo should focus on identifying harmed customers, refunding fees, repairing credit, and streamlining the resolution process. Real change would require more than replacing a few leaders or changing what Wells Fargo said it valued. The organization must rethink who holds power, what information reaches the board, and what behaviors are rewarded. That is how leadership begins moving from shadow back into light.
+
+## References
+
+::: {#refs}
+:::
