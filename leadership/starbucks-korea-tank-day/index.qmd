@@ -1,0 +1,27 @@
+---
+title: "When AI Is Not the Real Leadership Failure"
+author: "Vandelyn Nichols"
+description: "A leadership analysis of the Starbucks Korea Tank Day scandal examining human accountability, cultural review, responsible AI use, and why replacing one leader does not repair a failed decision process."
+bibliography: references.bib
+format:
+  html:
+    toc: true
+    link-citations: true
+---
+
+## Starbucks Korea “Tank Day” Scandal
+
+The Starbucks Korea “Tank Day” scandal was not simply an AI mistake. While AI may have suggested campaign ideas, leadership set the pace, defined the review process, and decided what was acceptable to make public. The campaign went live on May 18, a date tied to the Gwangju uprising, featured tank imagery, and reportedly used language linked to the cover-up of a student activist’s death [@kim2026]. Each of these issues could have been missed individually, but when all three passed through the approval process, it suggests a deeper issue with oversight and decision-making—not just a single error or a flawed AI suggestion.
+
+Starbucks did not need every person on the marketing team to be an expert in Korean history, but its review process needed to include people who understood the cultural context. @johnson2025 argues that leaders are responsible for more than their own decisions; they also shape how decisions are made throughout the organization. In this case, the campaign was rushed and the review process did not identify these issues. A second assessment by someone outside the marketing team or by employees familiar with Korean history may have caught the problem.
+
+Confusing confidence with competence has the potential to undermine good decision-making [@chamorro2019]. Sometimes, the most valuable person in the room is the one who asks: Why May 18? What do tanks mean in Korean history? Has anyone checked if this language has another meaning? Responsible leaders need to create space for these questions before a campaign launches, not after customers identify the problem for them.
+
+Using AI was not necessarily irresponsible; allowing its suggestions to move forward without enough scrutiny was. Someone at Starbucks still reviewed the promotion and signed off on it—and that responsibility does not transfer to the tool. Organizations using AI need clear accountability, human oversight, and controls to reduce foreseeable risks [@camilleri2024]. Starbucks could have used AI to develop the campaign and then used it again to challenge the idea, asking how the date, wording, and tank imagery might be interpreted in South Korea. AI may have raised a warning that warranted a closer look, but it could not make the final decision. That call still belongs to the people who understand the history and the context—and at Starbucks, that call was made too quickly.
+
+Removing the CEO may address accountability at the highest level, but it does not explain how the campaign passed through the approval process without anyone raising a concern [@kim2026]. Starbucks also had a responsibility to consider the people who would receive the campaign, especially when its imagery and timing touched a painful part of Korean history [@johnson2025]. The CEO may have been held accountable for the outcome, but responsible leadership also requires Starbucks to understand why no one caught the problem sooner. Otherwise, changing the person at the top leaves the same process in place.
+
+## References
+
+::: {#refs}
+:::
