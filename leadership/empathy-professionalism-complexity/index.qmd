@@ -1,0 +1,32 @@
+---
+title: "When Professional Boundaries Meet Real-World Judgment"
+author: "Vandelyn Nichols"
+description: "A leadership analysis of empathy, professional boundaries, physician burnout, and how complexity thinking changes the response when the normal process fails."
+format:
+  html:
+    toc: true
+---
+
+## Empathy, Professionalism, and Complexity
+
+Empathy belongs in professional practice, but not every act of empathy fits within professional boundaries. Clinicians need flexibility to respond to real-world situations, while organizations have to protect against dependency, favoritism, exploitation, and blurred relationships. After spending two hours trying to resolve an insurance issue late on a Friday, Dr. Gordon Schiff gave a patient $30 of his own money so the patient could purchase the needed medication. His employer saw this as crossing a professional line, but the alternative was to send the patient home without treatment (Schiff, 2020). For leadership, the question is not just whether a rule was broken, but why a physician saw this as the only reasonable option left.
+
+Professional boundaries exist for a reason, especially in relationships where one person has power or authority over someone vulnerable. Schiff (2020) acknowledges the risks—dependency, unequal treatment, misunderstood intentions, liability, and patients expecting ongoing personal help. These risks are real and should not be ignored. But it is important to ask who the boundary is actually protecting. A rule that protects patients from exploitation differs from one that prevents a physician from meeting an immediate patient need when the usual process has failed.
+
+Hospitals rarely operate as predictable systems where every problem has a clear solution (Plowman & Duchon, 2008). In this situation, an insurance problem left the patient unable to afford the medication; it was late on a Friday, and the hospital apparently had no clear alternative for the physician to use. The usual process had not accounted for what was actually happening. A traditional response might focus on the rule violation and reprimand the physician. But a complexity-oriented leader would see this as a sign that the hospital’s medication-access process may have broken down and ask: Why was a physician spending two hours on an insurance problem? Were case management, social work, pharmacy, or financial resources available? Was this a one-time issue or something clinicians face regularly?
+
+The medical-center leader should pause before reprimanding, first look at what failed in the system, preserve appropriate patient protections, and create a workable alternative—such as an emergency medication-assistance process with an after-hours escalation path. If clinicians are not supposed to give patients money, leadership needs to offer a clear option when a patient is about to leave without the needed prescriptions. Leadership can still have a documented conversation with Dr. Schiff about why personal financial relationships with patients create risk. But if the hospital expects clinicians not to step in financially, leadership must ensure a real alternative when insurance coverage falls short.
+
+Medical culture often teaches physicians to suppress emotion, even as they face enormous human suffering. Burnout shows up as depersonalization, emotional exhaustion, and a diminished sense of accomplishment, much of it driven by the conditions clinicians work in. The goal is not for physicians to become emotionally uncontrolled, but to recognize and manage emotions rather than always pushing them aside (Horton, 2024). If leadership reprimands a physician for helping a patient but does nothing to fix the broken insurance and medication-access process, other clinicians may conclude that following policy matters more than making sure patients get needed treatment. Healthcare organizations cannot continue to rely on clinicians’ empathy while creating conditions that drain their willingness and ability to provide it.
+
+Leaders face the same question in other settings: how do you maintain the standard without ignoring the circumstances? A student who is falling behind due to difficult circumstances at home may need more time, additional support, or a plan to catch up. Holding that student to the same academic standards does not mean ignoring what is preventing the work from getting done. The student still has to complete the work and demonstrate understanding of the material, but the teacher may adjust the timeline or provide additional support based on what is happening at home.
+
+When a physician spends two hours fighting an insurance denial and then uses personal money to help a patient get needed medication, leadership needs to start by asking what went wrong before blaming the physician. Organizations cannot expect clinicians to fix system failures out of their own pocket. Instead, they should support clinicians’ willingness to recognize suffering, advocate for patients, and speak up when processes are not working.
+
+## References
+
+Horton, J. (2024, August 14). *Healing and the healer: Dr. Jillian Horton on compassion in health care* [Audio podcast episode]. CBC Ideas.
+
+Plowman, D. A., & Duchon, D. (2008). Dispelling the myths about leadership: From cybernetics to emergence. In M. Uhl-Bien & R. Marion (Eds.), *Complexity leadership, Part 1: Conceptual foundations* (pp. 129–154). Information Age Publishing.
+
+Schiff, G. D. (2020). Crossing boundaries—Violation or obligation? *JAMA, 323*(17), 1674–1675. https://doi.org/10.1001/jama.2020.2853
