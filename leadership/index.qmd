@@ -104,6 +104,20 @@ An analysis of why ethics-based CEO dismissals are becoming more common, which o
 [View Analysis →](ethics-based-ceo-dismissals/index.qmd){.card-link}
 :::
 
+::: {.report-item}
+<div class="report-number">07</div>
+
+<div>
+<div class="report-meta">Leadership · Responsible AI · Accountability</div>
+
+### When AI Is Not the Real Leadership Failure
+
+An analysis of the Starbucks Korea “Tank Day” scandal examining human accountability, cultural review, responsible AI use, and why replacing one leader does not repair a failed decision process.
+</div>
+
+[View Analysis →](starbucks-korea-tank-day/index.qmd){.card-link}
+:::
+
 :::
 
 :::
