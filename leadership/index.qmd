@@ -118,6 +118,20 @@ An analysis of the Starbucks Korea “Tank Day” scandal examining human accoun
 [View Analysis →](starbucks-korea-tank-day/index.qmd){.card-link}
 :::
 
+::: {.report-item}
+<div class="report-number">08</div>
+
+<div>
+<div class="report-meta">Leadership · Empathy · Complexity</div>
+
+### When Professional Boundaries Meet Real-World Judgment
+
+An analysis of empathy, professional boundaries, physician burnout, and how complexity thinking changes the leadership response when the normal process fails.
+</div>
+
+[View Analysis →](empathy-professionalism-complexity/index.qmd){.card-link}
+:::
+
 :::
 
 :::
