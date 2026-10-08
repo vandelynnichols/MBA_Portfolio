@@ -132,6 +132,20 @@ An analysis of empathy, professional boundaries, physician burnout, and how comp
 [View Analysis →](empathy-professionalism-complexity/index.qmd){.card-link}
 :::
 
+::: {.report-item}
+<div class="report-number">09</div>
+
+<div>
+<div class="report-meta">Leadership · Conflict · Accountability</div>
+
+### Conflict Communication: When Emotion Replaces Problem-Solving
+
+A reflection on instinctive reactions, social defensiveness, and deliberate communication, using real experiences in healthcare leadership and retail management to examine conflict, employee autonomy, and accountability.
+</div>
+
+[View Analysis →](conflict-communication/index.qmd){.card-link}
+:::
+
 :::
 
 :::
